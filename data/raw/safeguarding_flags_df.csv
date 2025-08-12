@@ -1,0 +1,2513 @@
+student_id,academic_year,flag_name,flag_type
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2019-2020,EAL,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2020-2021,EAL,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2021-2022,EAL,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2022-2023,EAL,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2023-2024,EAL,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2024-2025,EAL,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2019-2020,Adopted,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2020-2021,Adopted,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2021-2022,Adopted,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2022-2023,Adopted,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2023-2024,Adopted,static
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2024-2025,Adopted,static
+043edbab-e1b9-49ab-baf3-00336ff48c36,2023-2024,Gifted & Talented,static
+043edbab-e1b9-49ab-baf3-00336ff48c36,2024-2025,Gifted & Talented,static
+0ca9da23-ab43-4841-9688-cccf1fd73445,2021-2022,Speech/Language Need,static
+0ca9da23-ab43-4841-9688-cccf1fd73445,2022-2023,Speech/Language Need,static
+0ca9da23-ab43-4841-9688-cccf1fd73445,2023-2024,Speech/Language Need,static
+0ca9da23-ab43-4841-9688-cccf1fd73445,2024-2025,Speech/Language Need,static
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2022-2023,ASC Diagnosis,static
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2023-2024,ASC Diagnosis,static
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2024-2025,ASC Diagnosis,static
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2023-2024,Young Carer,static
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2024-2025,Young Carer,static
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2023-2024,Dyspraxia,static
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2024-2025,Dyspraxia,static
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2022-2023,Autism Spectrum (ASC),static
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2023-2024,Autism Spectrum (ASC),static
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2024-2025,Autism Spectrum (ASC),static
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2022-2023,EAL,static
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2023-2024,EAL,static
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2024-2025,EAL,static
+195e33f4-ce7c-4cc3-b077-4b011441dfab,2023-2024,Visual Impairment,static
+195e33f4-ce7c-4cc3-b077-4b011441dfab,2024-2025,Visual Impairment,static
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2019-2020,ASC Diagnosis,static
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2020-2021,ASC Diagnosis,static
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2021-2022,ASC Diagnosis,static
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2022-2023,ASC Diagnosis,static
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2023-2024,ASC Diagnosis,static
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2024-2025,ASC Diagnosis,static
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2023-2024,Adopted,static
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2024-2025,Adopted,static
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2023-2024,Autism Spectrum (ASC),static
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2024-2025,Autism Spectrum (ASC),static
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2019-2020,SEND,static
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2020-2021,SEND,static
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2021-2022,SEND,static
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2022-2023,SEND,static
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2023-2024,SEND,static
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2024-2025,SEND,static
+23919cad-7526-4273-a672-d1533dd229f6,2021-2022,ASC Diagnosis,static
+23919cad-7526-4273-a672-d1533dd229f6,2022-2023,ASC Diagnosis,static
+23919cad-7526-4273-a672-d1533dd229f6,2023-2024,ASC Diagnosis,static
+23919cad-7526-4273-a672-d1533dd229f6,2024-2025,ASC Diagnosis,static
+23919cad-7526-4273-a672-d1533dd229f6,2021-2022,Gifted & Talented,static
+23919cad-7526-4273-a672-d1533dd229f6,2022-2023,Gifted & Talented,static
+23919cad-7526-4273-a672-d1533dd229f6,2023-2024,Gifted & Talented,static
+23919cad-7526-4273-a672-d1533dd229f6,2024-2025,Gifted & Talented,static
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2020-2021,Visual Impairment,static
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2021-2022,Visual Impairment,static
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2022-2023,Visual Impairment,static
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2023-2024,Visual Impairment,static
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2024-2025,Visual Impairment,static
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2022-2023,Adopted,static
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2023-2024,Adopted,static
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2024-2025,Adopted,static
+27a987e3-af22-4ec6-a8f6-224e27820252,2021-2022,Young Carer,static
+27a987e3-af22-4ec6-a8f6-224e27820252,2022-2023,Young Carer,static
+27a987e3-af22-4ec6-a8f6-224e27820252,2023-2024,Young Carer,static
+27a987e3-af22-4ec6-a8f6-224e27820252,2024-2025,Young Carer,static
+2d54a659-9b9b-464f-ab6c-5a300ee1a07d,2024-2025,ASC Diagnosis,static
+2dc52a53-ff6f-4b33-bb9e-da403bac8c3c,2024-2025,Pupil Premium,static
+2dc52a53-ff6f-4b33-bb9e-da403bac8c3c,2024-2025,Visual Impairment,static
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2022-2023,Dyslexia,static
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2023-2024,Dyslexia,static
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2024-2025,Dyslexia,static
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2022-2023,Free School Meals,static
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2023-2024,Free School Meals,static
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2024-2025,Free School Meals,static
+2fad8742-c959-4aae-a000-e36de8c3122e,2023-2024,ASC Diagnosis,static
+2fad8742-c959-4aae-a000-e36de8c3122e,2024-2025,ASC Diagnosis,static
+2fad8742-c959-4aae-a000-e36de8c3122e,2023-2024,Gifted & Talented,static
+2fad8742-c959-4aae-a000-e36de8c3122e,2024-2025,Gifted & Talented,static
+2fc51dd6-5c62-49bc-b88c-b9eb1f13e9c7,2023-2024,Speech/Language Need,static
+2fc51dd6-5c62-49bc-b88c-b9eb1f13e9c7,2024-2025,Speech/Language Need,static
+34925bb9-e8fe-433e-b34b-5d8be686f146,2020-2021,Autism Spectrum (ASC),static
+34925bb9-e8fe-433e-b34b-5d8be686f146,2021-2022,Autism Spectrum (ASC),static
+34925bb9-e8fe-433e-b34b-5d8be686f146,2022-2023,Autism Spectrum (ASC),static
+34925bb9-e8fe-433e-b34b-5d8be686f146,2023-2024,Autism Spectrum (ASC),static
+34925bb9-e8fe-433e-b34b-5d8be686f146,2024-2025,Autism Spectrum (ASC),static
+379425ea-046b-446c-89e5-742aad9cd13b,2024-2025,Young Carer,static
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2023-2024,SEND,static
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2024-2025,SEND,static
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2023-2024,Refugee/Asylum Seeker,static
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2024-2025,Refugee/Asylum Seeker,static
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2019-2020,ADHD Diagnosis,static
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2020-2021,ADHD Diagnosis,static
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2021-2022,ADHD Diagnosis,static
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2022-2023,ADHD Diagnosis,static
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2023-2024,ADHD Diagnosis,static
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2024-2025,ADHD Diagnosis,static
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2022-2023,Refugee/Asylum Seeker,static
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2023-2024,Refugee/Asylum Seeker,static
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2024-2025,Refugee/Asylum Seeker,static
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2022-2023,Chronic Illness,static
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2023-2024,Chronic Illness,static
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2024-2025,Chronic Illness,static
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2022-2023,Gifted & Talented,static
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2023-2024,Gifted & Talented,static
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2024-2025,Gifted & Talented,static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2020-2021,Autism Spectrum (ASC),static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2021-2022,Autism Spectrum (ASC),static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2022-2023,Autism Spectrum (ASC),static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2023-2024,Autism Spectrum (ASC),static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2024-2025,Autism Spectrum (ASC),static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2020-2021,Transport Assistance,static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2021-2022,Transport Assistance,static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2022-2023,Transport Assistance,static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2023-2024,Transport Assistance,static
+3d90b1ac-c884-478f-968a-102a4581ee7f,2024-2025,Transport Assistance,static
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2020-2021,EAL,static
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2021-2022,EAL,static
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2022-2023,EAL,static
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2023-2024,EAL,static
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2024-2025,EAL,static
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2019-2020,SEND,static
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2020-2021,SEND,static
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2021-2022,SEND,static
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2022-2023,SEND,static
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2023-2024,SEND,static
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2024-2025,SEND,static
+4263066a-410a-431a-9280-94dade4f93b9,2021-2022,EAL,static
+4263066a-410a-431a-9280-94dade4f93b9,2022-2023,EAL,static
+4263066a-410a-431a-9280-94dade4f93b9,2023-2024,EAL,static
+4263066a-410a-431a-9280-94dade4f93b9,2024-2025,EAL,static
+45d52aac-737c-4408-977b-5eb95f0d0651,2023-2024,Pupil Premium,static
+45d52aac-737c-4408-977b-5eb95f0d0651,2024-2025,Pupil Premium,static
+474c18dd-b149-4650-9c6a-8e35441986a7,2024-2025,Visual Impairment,static
+48b9005e-04b0-4706-88e9-f13256b3438a,2022-2023,ADHD Diagnosis,static
+48b9005e-04b0-4706-88e9-f13256b3438a,2023-2024,ADHD Diagnosis,static
+48b9005e-04b0-4706-88e9-f13256b3438a,2024-2025,ADHD Diagnosis,static
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2020-2021,ASC Diagnosis,static
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2021-2022,ASC Diagnosis,static
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2022-2023,ASC Diagnosis,static
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2023-2024,ASC Diagnosis,static
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2024-2025,ASC Diagnosis,static
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2019-2020,Pupil Premium,static
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2020-2021,Pupil Premium,static
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2021-2022,Pupil Premium,static
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2022-2023,Pupil Premium,static
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2023-2024,Pupil Premium,static
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2024-2025,Pupil Premium,static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2019-2020,Looked After Child (LAC),static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2020-2021,Looked After Child (LAC),static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2021-2022,Looked After Child (LAC),static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2022-2023,Looked After Child (LAC),static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2023-2024,Looked After Child (LAC),static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2024-2025,Looked After Child (LAC),static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2019-2020,Dyslexia,static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2020-2021,Dyslexia,static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2021-2022,Dyslexia,static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2022-2023,Dyslexia,static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2023-2024,Dyslexia,static
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2024-2025,Dyslexia,static
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2020-2021,Dyslexia,static
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2021-2022,Dyslexia,static
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2022-2023,Dyslexia,static
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2023-2024,Dyslexia,static
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2024-2025,Dyslexia,static
+4e6fe278-1258-49bf-aea7-95e579005cd5,2021-2022,Transport Assistance,static
+4e6fe278-1258-49bf-aea7-95e579005cd5,2022-2023,Transport Assistance,static
+4e6fe278-1258-49bf-aea7-95e579005cd5,2023-2024,Transport Assistance,static
+4e6fe278-1258-49bf-aea7-95e579005cd5,2024-2025,Transport Assistance,static
+52157191-7429-4a41-a49b-1101471da785,2021-2022,Dyslexia,static
+52157191-7429-4a41-a49b-1101471da785,2022-2023,Dyslexia,static
+52157191-7429-4a41-a49b-1101471da785,2023-2024,Dyslexia,static
+52157191-7429-4a41-a49b-1101471da785,2024-2025,Dyslexia,static
+521bce69-290f-4367-906c-4f6f56af0f02,2020-2021,EAL,static
+521bce69-290f-4367-906c-4f6f56af0f02,2021-2022,EAL,static
+521bce69-290f-4367-906c-4f6f56af0f02,2022-2023,EAL,static
+521bce69-290f-4367-906c-4f6f56af0f02,2023-2024,EAL,static
+521bce69-290f-4367-906c-4f6f56af0f02,2024-2025,EAL,static
+52d6c531-d4fd-4242-bcde-843e5fca3d30,2023-2024,EHCP,static
+52d6c531-d4fd-4242-bcde-843e5fca3d30,2024-2025,EHCP,static
+52d6c531-d4fd-4242-bcde-843e5fca3d30,2023-2024,Refugee/Asylum Seeker,static
+52d6c531-d4fd-4242-bcde-843e5fca3d30,2024-2025,Refugee/Asylum Seeker,static
+5426a1ee-dafa-4e48-9929-e30bf8232333,2021-2022,Transport Assistance,static
+5426a1ee-dafa-4e48-9929-e30bf8232333,2022-2023,Transport Assistance,static
+5426a1ee-dafa-4e48-9929-e30bf8232333,2023-2024,Transport Assistance,static
+5426a1ee-dafa-4e48-9929-e30bf8232333,2024-2025,Transport Assistance,static
+54b967e4-0c0a-448a-a751-6cd1de807916,2021-2022,EAL,static
+54b967e4-0c0a-448a-a751-6cd1de807916,2022-2023,EAL,static
+54b967e4-0c0a-448a-a751-6cd1de807916,2023-2024,EAL,static
+54b967e4-0c0a-448a-a751-6cd1de807916,2024-2025,EAL,static
+54b967e4-0c0a-448a-a751-6cd1de807916,2021-2022,Looked After Child (LAC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2022-2023,Looked After Child (LAC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2023-2024,Looked After Child (LAC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2024-2025,Looked After Child (LAC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2021-2022,Autism Spectrum (ASC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2022-2023,Autism Spectrum (ASC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2023-2024,Autism Spectrum (ASC),static
+54b967e4-0c0a-448a-a751-6cd1de807916,2024-2025,Autism Spectrum (ASC),static
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2020-2021,EAL,static
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2021-2022,EAL,static
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2022-2023,EAL,static
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2023-2024,EAL,static
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2024-2025,EAL,static
+59d908df-a651-43bb-bcae-898eef004728,2021-2022,Transport Assistance,static
+59d908df-a651-43bb-bcae-898eef004728,2022-2023,Transport Assistance,static
+59d908df-a651-43bb-bcae-898eef004728,2023-2024,Transport Assistance,static
+59d908df-a651-43bb-bcae-898eef004728,2024-2025,Transport Assistance,static
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2020-2021,Pupil Premium,static
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2021-2022,Pupil Premium,static
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2022-2023,Pupil Premium,static
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2023-2024,Pupil Premium,static
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2024-2025,Pupil Premium,static
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2021-2022,Autism Spectrum (ASC),static
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2022-2023,Autism Spectrum (ASC),static
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2023-2024,Autism Spectrum (ASC),static
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2024-2025,Autism Spectrum (ASC),static
+5efdd789-461c-481c-8057-499baf9356e0,2024-2025,Pupil Premium,static
+5efdd789-461c-481c-8057-499baf9356e0,2024-2025,Looked After Child (LAC),static
+5efdd789-461c-481c-8057-499baf9356e0,2024-2025,Dyslexia,static
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2019-2020,ASC Diagnosis,static
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2020-2021,ASC Diagnosis,static
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2021-2022,ASC Diagnosis,static
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2022-2023,ASC Diagnosis,static
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2023-2024,ASC Diagnosis,static
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2024-2025,ASC Diagnosis,static
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2022-2023,Young Carer,static
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2023-2024,Young Carer,static
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2024-2025,Young Carer,static
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2022-2023,Autism Spectrum (ASC),static
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2023-2024,Autism Spectrum (ASC),static
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2024-2025,Autism Spectrum (ASC),static
+64a41e36-d282-424f-9e8e-265531f7eee6,2022-2023,ADHD Diagnosis,static
+64a41e36-d282-424f-9e8e-265531f7eee6,2023-2024,ADHD Diagnosis,static
+64a41e36-d282-424f-9e8e-265531f7eee6,2024-2025,ADHD Diagnosis,static
+659da457-c320-4715-9e05-b48ffe976959,2022-2023,Transport Assistance,static
+659da457-c320-4715-9e05-b48ffe976959,2023-2024,Transport Assistance,static
+659da457-c320-4715-9e05-b48ffe976959,2024-2025,Transport Assistance,static
+67ee3988-3720-4bdb-83f0-8dc248349f24,2021-2022,Refugee/Asylum Seeker,static
+67ee3988-3720-4bdb-83f0-8dc248349f24,2022-2023,Refugee/Asylum Seeker,static
+67ee3988-3720-4bdb-83f0-8dc248349f24,2023-2024,Refugee/Asylum Seeker,static
+67ee3988-3720-4bdb-83f0-8dc248349f24,2024-2025,Refugee/Asylum Seeker,static
+6952158d-cde6-4bea-9ba2-71e99a932531,2022-2023,Refugee/Asylum Seeker,static
+6952158d-cde6-4bea-9ba2-71e99a932531,2023-2024,Refugee/Asylum Seeker,static
+6952158d-cde6-4bea-9ba2-71e99a932531,2024-2025,Refugee/Asylum Seeker,static
+696b60ac-df8d-4081-98cb-9761056e89f6,2019-2020,Chronic Illness,static
+696b60ac-df8d-4081-98cb-9761056e89f6,2020-2021,Chronic Illness,static
+696b60ac-df8d-4081-98cb-9761056e89f6,2021-2022,Chronic Illness,static
+696b60ac-df8d-4081-98cb-9761056e89f6,2022-2023,Chronic Illness,static
+696b60ac-df8d-4081-98cb-9761056e89f6,2023-2024,Chronic Illness,static
+696b60ac-df8d-4081-98cb-9761056e89f6,2024-2025,Chronic Illness,static
+6a260288-b13a-45d1-bead-8610f365e54e,2023-2024,EAL,static
+6a260288-b13a-45d1-bead-8610f365e54e,2024-2025,EAL,static
+6a260288-b13a-45d1-bead-8610f365e54e,2023-2024,Transport Assistance,static
+6a260288-b13a-45d1-bead-8610f365e54e,2024-2025,Transport Assistance,static
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2022-2023,Speech/Language Need,static
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2023-2024,Speech/Language Need,static
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2024-2025,Speech/Language Need,static
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2022-2023,Free School Meals,static
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2023-2024,Free School Meals,static
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2024-2025,Free School Meals,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2019-2020,ASC Diagnosis,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2020-2021,ASC Diagnosis,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2021-2022,ASC Diagnosis,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2022-2023,ASC Diagnosis,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2023-2024,ASC Diagnosis,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2024-2025,ASC Diagnosis,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2019-2020,Hearing Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2020-2021,Hearing Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2021-2022,Hearing Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2022-2023,Hearing Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2023-2024,Hearing Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2024-2025,Hearing Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2019-2020,Visual Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2020-2021,Visual Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2021-2022,Visual Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2022-2023,Visual Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2023-2024,Visual Impairment,static
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2024-2025,Visual Impairment,static
+6ce6b271-1775-4587-ae4f-a2cd1a20704d,2024-2025,Looked After Child (LAC),static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2020-2021,SEND,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2021-2022,SEND,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2022-2023,SEND,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2023-2024,SEND,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2024-2025,SEND,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2020-2021,Dyspraxia,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2021-2022,Dyspraxia,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2022-2023,Dyspraxia,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2023-2024,Dyspraxia,static
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2024-2025,Dyspraxia,static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2021-2022,Visual Impairment,static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2022-2023,Visual Impairment,static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2023-2024,Visual Impairment,static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2024-2025,Visual Impairment,static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2021-2022,Autism Spectrum (ASC),static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2022-2023,Autism Spectrum (ASC),static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2023-2024,Autism Spectrum (ASC),static
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2024-2025,Autism Spectrum (ASC),static
+6e300365-1af4-495a-945e-adf430a52523,2022-2023,Chronic Illness,static
+6e300365-1af4-495a-945e-adf430a52523,2023-2024,Chronic Illness,static
+6e300365-1af4-495a-945e-adf430a52523,2024-2025,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2019-2020,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2020-2021,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2021-2022,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2022-2023,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2023-2024,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2024-2025,Chronic Illness,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2019-2020,Dyspraxia,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2020-2021,Dyspraxia,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2021-2022,Dyspraxia,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2022-2023,Dyspraxia,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2023-2024,Dyspraxia,static
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2024-2025,Dyspraxia,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2022-2023,ADHD Diagnosis,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2023-2024,ADHD Diagnosis,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2024-2025,ADHD Diagnosis,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2022-2023,SEND,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2023-2024,SEND,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2024-2025,SEND,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2022-2023,Speech/Language Need,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2023-2024,Speech/Language Need,static
+710b7b97-7881-437f-bac1-0edecc543b6f,2024-2025,Speech/Language Need,static
+717ee598-df2a-43dc-a7cc-2f3506e633b6,2024-2025,Refugee/Asylum Seeker,static
+73abf70f-2fef-4983-b956-49fc2826748e,2024-2025,EAL,static
+76810c09-44be-4da9-8017-b1cdba240d9f,2024-2025,Refugee/Asylum Seeker,static
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2022-2023,Adopted,static
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2023-2024,Adopted,static
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2024-2025,Adopted,static
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2020-2021,EAL,static
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2021-2022,EAL,static
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2022-2023,EAL,static
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2023-2024,EAL,static
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2024-2025,EAL,static
+7e5ac33b-6789-4290-88a8-f72247e16762,2021-2022,Autism Spectrum (ASC),static
+7e5ac33b-6789-4290-88a8-f72247e16762,2022-2023,Autism Spectrum (ASC),static
+7e5ac33b-6789-4290-88a8-f72247e16762,2023-2024,Autism Spectrum (ASC),static
+7e5ac33b-6789-4290-88a8-f72247e16762,2024-2025,Autism Spectrum (ASC),static
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2023-2024,Adopted,static
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2024-2025,Adopted,static
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2023-2024,Refugee/Asylum Seeker,static
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2024-2025,Refugee/Asylum Seeker,static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2020-2021,Autism Spectrum (ASC),static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,Autism Spectrum (ASC),static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2022-2023,Autism Spectrum (ASC),static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2023-2024,Autism Spectrum (ASC),static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2024-2025,Autism Spectrum (ASC),static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2020-2021,Speech/Language Need,static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,Speech/Language Need,static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2022-2023,Speech/Language Need,static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2023-2024,Speech/Language Need,static
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2024-2025,Speech/Language Need,static
+819e1ec3-a41a-435d-ae83-459403c238e9,2022-2023,Chronic Illness,static
+819e1ec3-a41a-435d-ae83-459403c238e9,2023-2024,Chronic Illness,static
+819e1ec3-a41a-435d-ae83-459403c238e9,2024-2025,Chronic Illness,static
+82284926-4f82-4c03-8e3d-6b3691a185b7,2024-2025,Adopted,static
+82284926-4f82-4c03-8e3d-6b3691a185b7,2024-2025,Pupil Premium,static
+82284926-4f82-4c03-8e3d-6b3691a185b7,2024-2025,Dyspraxia,static
+84257923-b319-4277-9374-d74cfcdeb477,2020-2021,Visual Impairment,static
+84257923-b319-4277-9374-d74cfcdeb477,2021-2022,Visual Impairment,static
+84257923-b319-4277-9374-d74cfcdeb477,2022-2023,Visual Impairment,static
+84257923-b319-4277-9374-d74cfcdeb477,2023-2024,Visual Impairment,static
+84257923-b319-4277-9374-d74cfcdeb477,2024-2025,Visual Impairment,static
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2022-2023,SEND,static
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2023-2024,SEND,static
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2024-2025,SEND,static
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2019-2020,Visual Impairment,static
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2020-2021,Visual Impairment,static
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2021-2022,Visual Impairment,static
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2022-2023,Visual Impairment,static
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2023-2024,Visual Impairment,static
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2024-2025,Visual Impairment,static
+8dce8933-91be-4e98-af3c-361107e1b287,2022-2023,Speech/Language Need,static
+8dce8933-91be-4e98-af3c-361107e1b287,2023-2024,Speech/Language Need,static
+8dce8933-91be-4e98-af3c-361107e1b287,2024-2025,Speech/Language Need,static
+92f89a73-9ace-454d-976c-45ffb4595629,2019-2020,Adopted,static
+92f89a73-9ace-454d-976c-45ffb4595629,2020-2021,Adopted,static
+92f89a73-9ace-454d-976c-45ffb4595629,2021-2022,Adopted,static
+92f89a73-9ace-454d-976c-45ffb4595629,2022-2023,Adopted,static
+92f89a73-9ace-454d-976c-45ffb4595629,2023-2024,Adopted,static
+92f89a73-9ace-454d-976c-45ffb4595629,2024-2025,Adopted,static
+92f89a73-9ace-454d-976c-45ffb4595629,2019-2020,Pupil Premium,static
+92f89a73-9ace-454d-976c-45ffb4595629,2020-2021,Pupil Premium,static
+92f89a73-9ace-454d-976c-45ffb4595629,2021-2022,Pupil Premium,static
+92f89a73-9ace-454d-976c-45ffb4595629,2022-2023,Pupil Premium,static
+92f89a73-9ace-454d-976c-45ffb4595629,2023-2024,Pupil Premium,static
+92f89a73-9ace-454d-976c-45ffb4595629,2024-2025,Pupil Premium,static
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2019-2020,EAL,static
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2020-2021,EAL,static
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2021-2022,EAL,static
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2022-2023,EAL,static
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2023-2024,EAL,static
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2024-2025,EAL,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,Young Carer,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2021-2022,Young Carer,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2022-2023,Young Carer,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2023-2024,Young Carer,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,Young Carer,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,Looked After Child (LAC),static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2021-2022,Looked After Child (LAC),static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2022-2023,Looked After Child (LAC),static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2023-2024,Looked After Child (LAC),static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,Looked After Child (LAC),static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,Gifted & Talented,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2021-2022,Gifted & Talented,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2022-2023,Gifted & Talented,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2023-2024,Gifted & Talented,static
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,Gifted & Talented,static
+94439584-285f-4259-ad4f-f527569ac95c,2020-2021,Chronic Illness,static
+94439584-285f-4259-ad4f-f527569ac95c,2021-2022,Chronic Illness,static
+94439584-285f-4259-ad4f-f527569ac95c,2022-2023,Chronic Illness,static
+94439584-285f-4259-ad4f-f527569ac95c,2023-2024,Chronic Illness,static
+94439584-285f-4259-ad4f-f527569ac95c,2024-2025,Chronic Illness,static
+94985318-6f65-4be9-bfba-7f24c06390e1,2020-2021,Young Carer,static
+94985318-6f65-4be9-bfba-7f24c06390e1,2021-2022,Young Carer,static
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Young Carer,static
+94985318-6f65-4be9-bfba-7f24c06390e1,2023-2024,Young Carer,static
+94985318-6f65-4be9-bfba-7f24c06390e1,2024-2025,Young Carer,static
+96af5f39-3bac-4684-b138-eed2374c324c,2021-2022,ADHD Diagnosis,static
+96af5f39-3bac-4684-b138-eed2374c324c,2022-2023,ADHD Diagnosis,static
+96af5f39-3bac-4684-b138-eed2374c324c,2023-2024,ADHD Diagnosis,static
+96af5f39-3bac-4684-b138-eed2374c324c,2024-2025,ADHD Diagnosis,static
+96af5f39-3bac-4684-b138-eed2374c324c,2021-2022,EHCP,static
+96af5f39-3bac-4684-b138-eed2374c324c,2022-2023,EHCP,static
+96af5f39-3bac-4684-b138-eed2374c324c,2023-2024,EHCP,static
+96af5f39-3bac-4684-b138-eed2374c324c,2024-2025,EHCP,static
+96af5f39-3bac-4684-b138-eed2374c324c,2021-2022,Gifted & Talented,static
+96af5f39-3bac-4684-b138-eed2374c324c,2022-2023,Gifted & Talented,static
+96af5f39-3bac-4684-b138-eed2374c324c,2023-2024,Gifted & Talented,static
+96af5f39-3bac-4684-b138-eed2374c324c,2024-2025,Gifted & Talented,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2020-2021,Adopted,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2021-2022,Adopted,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2022-2023,Adopted,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2023-2024,Adopted,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2024-2025,Adopted,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2020-2021,Dyslexia,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2021-2022,Dyslexia,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2022-2023,Dyslexia,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2023-2024,Dyslexia,static
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2024-2025,Dyslexia,static
+996d7e81-e984-490e-9d1f-6181f10e7738,2020-2021,Speech/Language Need,static
+996d7e81-e984-490e-9d1f-6181f10e7738,2021-2022,Speech/Language Need,static
+996d7e81-e984-490e-9d1f-6181f10e7738,2022-2023,Speech/Language Need,static
+996d7e81-e984-490e-9d1f-6181f10e7738,2023-2024,Speech/Language Need,static
+996d7e81-e984-490e-9d1f-6181f10e7738,2024-2025,Speech/Language Need,static
+99b06eb6-a2e5-4804-afef-a417acc8c896,2023-2024,EHCP,static
+99b06eb6-a2e5-4804-afef-a417acc8c896,2024-2025,EHCP,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2022-2023,ASC Diagnosis,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2023-2024,ASC Diagnosis,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2024-2025,ASC Diagnosis,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2022-2023,Refugee/Asylum Seeker,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2023-2024,Refugee/Asylum Seeker,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2024-2025,Refugee/Asylum Seeker,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2022-2023,Transport Assistance,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2023-2024,Transport Assistance,static
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2024-2025,Transport Assistance,static
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2020-2021,Chronic Illness,static
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2021-2022,Chronic Illness,static
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2022-2023,Chronic Illness,static
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2023-2024,Chronic Illness,static
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2024-2025,Chronic Illness,static
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2022-2023,Adopted,static
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2023-2024,Adopted,static
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2024-2025,Adopted,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2021-2022,Chronic Illness,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Chronic Illness,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2023-2024,Chronic Illness,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2024-2025,Chronic Illness,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2021-2022,Dyspraxia,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Dyspraxia,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2023-2024,Dyspraxia,static
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2024-2025,Dyspraxia,static
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2022-2023,Speech/Language Need,static
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2023-2024,Speech/Language Need,static
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2024-2025,Speech/Language Need,static
+a2b8594d-fd49-436d-a030-0f6154787662,2019-2020,Hearing Impairment,static
+a2b8594d-fd49-436d-a030-0f6154787662,2020-2021,Hearing Impairment,static
+a2b8594d-fd49-436d-a030-0f6154787662,2021-2022,Hearing Impairment,static
+a2b8594d-fd49-436d-a030-0f6154787662,2022-2023,Hearing Impairment,static
+a2b8594d-fd49-436d-a030-0f6154787662,2023-2024,Hearing Impairment,static
+a2b8594d-fd49-436d-a030-0f6154787662,2024-2025,Hearing Impairment,static
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2020-2021,ASC Diagnosis,static
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2021-2022,ASC Diagnosis,static
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2022-2023,ASC Diagnosis,static
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2023-2024,ASC Diagnosis,static
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2024-2025,ASC Diagnosis,static
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2019-2020,Hearing Impairment,static
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2020-2021,Hearing Impairment,static
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2021-2022,Hearing Impairment,static
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2022-2023,Hearing Impairment,static
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2023-2024,Hearing Impairment,static
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Hearing Impairment,static
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2023-2024,ADHD Diagnosis,static
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,ADHD Diagnosis,static
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2023-2024,Young Carer,static
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,Young Carer,static
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2023-2024,Dyspraxia,static
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,Dyspraxia,static
+ac7be2a2-265c-4976-8ca0-fd56a3838794,2023-2024,EAL,static
+ac7be2a2-265c-4976-8ca0-fd56a3838794,2024-2025,EAL,static
+acd1a447-c14e-4f08-837f-fe349cab58aa,2019-2020,ADHD Diagnosis,static
+acd1a447-c14e-4f08-837f-fe349cab58aa,2020-2021,ADHD Diagnosis,static
+acd1a447-c14e-4f08-837f-fe349cab58aa,2021-2022,ADHD Diagnosis,static
+acd1a447-c14e-4f08-837f-fe349cab58aa,2022-2023,ADHD Diagnosis,static
+acd1a447-c14e-4f08-837f-fe349cab58aa,2023-2024,ADHD Diagnosis,static
+acd1a447-c14e-4f08-837f-fe349cab58aa,2024-2025,ADHD Diagnosis,static
+acf56a66-6c8b-437c-97e1-1e428cb0e354,2024-2025,ASC Diagnosis,static
+acf56a66-6c8b-437c-97e1-1e428cb0e354,2024-2025,Speech/Language Need,static
+acf56a66-6c8b-437c-97e1-1e428cb0e354,2024-2025,Transport Assistance,static
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2020-2021,Autism Spectrum (ASC),static
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2021-2022,Autism Spectrum (ASC),static
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2022-2023,Autism Spectrum (ASC),static
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2023-2024,Autism Spectrum (ASC),static
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2024-2025,Autism Spectrum (ASC),static
+ae419971-bc36-490f-9d81-300475aa8ed0,2021-2022,EHCP,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2022-2023,EHCP,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2023-2024,EHCP,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,EHCP,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2021-2022,Pupil Premium,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2022-2023,Pupil Premium,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2023-2024,Pupil Premium,static
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,Pupil Premium,static
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2022-2023,SEND,static
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2023-2024,SEND,static
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2024-2025,SEND,static
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2022-2023,Hearing Impairment,static
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2023-2024,Hearing Impairment,static
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2024-2025,Hearing Impairment,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2021-2022,Refugee/Asylum Seeker,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2022-2023,Refugee/Asylum Seeker,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2023-2024,Refugee/Asylum Seeker,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2024-2025,Refugee/Asylum Seeker,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2021-2022,Gifted & Talented,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2022-2023,Gifted & Talented,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2023-2024,Gifted & Talented,static
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2024-2025,Gifted & Talented,static
+b10f4c17-9904-41b3-a7ba-8d6f84a5d69c,2023-2024,Autism Spectrum (ASC),static
+b10f4c17-9904-41b3-a7ba-8d6f84a5d69c,2024-2025,Autism Spectrum (ASC),static
+b10f4c17-9904-41b3-a7ba-8d6f84a5d69c,2023-2024,Gifted & Talented,static
+b10f4c17-9904-41b3-a7ba-8d6f84a5d69c,2024-2025,Gifted & Talented,static
+b15684a3-0908-41ac-ac20-3bface5f8ed2,2024-2025,Speech/Language Need,static
+b1a5a700-5f9c-47bb-860d-70b5561c97c3,2024-2025,Hearing Impairment,static
+b1a5a700-5f9c-47bb-860d-70b5561c97c3,2024-2025,Speech/Language Need,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2019-2020,Adopted,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2020-2021,Adopted,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2021-2022,Adopted,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2022-2023,Adopted,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2023-2024,Adopted,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2024-2025,Adopted,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2019-2020,ADHD Diagnosis,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2020-2021,ADHD Diagnosis,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2021-2022,ADHD Diagnosis,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2022-2023,ADHD Diagnosis,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2023-2024,ADHD Diagnosis,static
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2024-2025,ADHD Diagnosis,static
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2022-2023,SEND,static
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2023-2024,SEND,static
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2024-2025,SEND,static
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2022-2023,EHCP,static
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2023-2024,EHCP,static
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2024-2025,EHCP,static
+b44c7757-942e-4930-8f5b-abcc11107a3e,2023-2024,ASC Diagnosis,static
+b44c7757-942e-4930-8f5b-abcc11107a3e,2024-2025,ASC Diagnosis,static
+b6274717-b47b-4b25-b3dd-551014f48c65,2024-2025,ADHD Diagnosis,static
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2022-2023,SEND,static
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2023-2024,SEND,static
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2024-2025,SEND,static
+baa42367-c613-4e21-bd73-b945a6850ba0,2019-2020,Autism Spectrum (ASC),static
+baa42367-c613-4e21-bd73-b945a6850ba0,2020-2021,Autism Spectrum (ASC),static
+baa42367-c613-4e21-bd73-b945a6850ba0,2021-2022,Autism Spectrum (ASC),static
+baa42367-c613-4e21-bd73-b945a6850ba0,2022-2023,Autism Spectrum (ASC),static
+baa42367-c613-4e21-bd73-b945a6850ba0,2023-2024,Autism Spectrum (ASC),static
+baa42367-c613-4e21-bd73-b945a6850ba0,2024-2025,Autism Spectrum (ASC),static
+bde6b5ba-c610-4d66-beec-5af8451c169d,2019-2020,Free School Meals,static
+bde6b5ba-c610-4d66-beec-5af8451c169d,2020-2021,Free School Meals,static
+bde6b5ba-c610-4d66-beec-5af8451c169d,2021-2022,Free School Meals,static
+bde6b5ba-c610-4d66-beec-5af8451c169d,2022-2023,Free School Meals,static
+bde6b5ba-c610-4d66-beec-5af8451c169d,2023-2024,Free School Meals,static
+bde6b5ba-c610-4d66-beec-5af8451c169d,2024-2025,Free School Meals,static
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2019-2020,ADHD Diagnosis,static
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2020-2021,ADHD Diagnosis,static
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2021-2022,ADHD Diagnosis,static
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2022-2023,ADHD Diagnosis,static
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2023-2024,ADHD Diagnosis,static
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2024-2025,ADHD Diagnosis,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2021-2022,EAL,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2022-2023,EAL,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,EAL,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2024-2025,EAL,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2021-2022,ADHD Diagnosis,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2022-2023,ADHD Diagnosis,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,ADHD Diagnosis,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2024-2025,ADHD Diagnosis,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2021-2022,EHCP,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2022-2023,EHCP,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,EHCP,static
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2024-2025,EHCP,static
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2023-2024,Young Carer,static
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,Young Carer,static
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2023-2024,Dyspraxia,static
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,Dyspraxia,static
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2023-2024,Gifted & Talented,static
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,Gifted & Talented,static
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2019-2020,Looked After Child (LAC),static
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2020-2021,Looked After Child (LAC),static
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2021-2022,Looked After Child (LAC),static
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2022-2023,Looked After Child (LAC),static
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2023-2024,Looked After Child (LAC),static
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2024-2025,Looked After Child (LAC),static
+c3685a61-1611-4600-82d1-adad32ed50b3,2022-2023,Hearing Impairment,static
+c3685a61-1611-4600-82d1-adad32ed50b3,2023-2024,Hearing Impairment,static
+c3685a61-1611-4600-82d1-adad32ed50b3,2024-2025,Hearing Impairment,static
+c3685a61-1611-4600-82d1-adad32ed50b3,2022-2023,Autism Spectrum (ASC),static
+c3685a61-1611-4600-82d1-adad32ed50b3,2023-2024,Autism Spectrum (ASC),static
+c3685a61-1611-4600-82d1-adad32ed50b3,2024-2025,Autism Spectrum (ASC),static
+c49465bb-1140-4e1f-8275-07d26325a4f9,2024-2025,SEND,static
+c5596d5d-481c-4136-b1a9-f223276a2c89,2020-2021,EAL,static
+c5596d5d-481c-4136-b1a9-f223276a2c89,2021-2022,EAL,static
+c5596d5d-481c-4136-b1a9-f223276a2c89,2022-2023,EAL,static
+c5596d5d-481c-4136-b1a9-f223276a2c89,2023-2024,EAL,static
+c5596d5d-481c-4136-b1a9-f223276a2c89,2024-2025,EAL,static
+c5bf30b5-42b8-4af0-a2c0-60d8da2ff309,2024-2025,ASC Diagnosis,static
+c5bf30b5-42b8-4af0-a2c0-60d8da2ff309,2024-2025,Pupil Premium,static
+c5bf30b5-42b8-4af0-a2c0-60d8da2ff309,2024-2025,Dyslexia,static
+c93144e3-8cb8-4ac2-8968-0e88ccb8a735,2024-2025,Young Carer,static
+c959f594-c788-4408-82f8-6b0890686b28,2024-2025,Hearing Impairment,static
+c959f594-c788-4408-82f8-6b0890686b28,2024-2025,Autism Spectrum (ASC),static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2022-2023,EAL,static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,EAL,static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2024-2025,EAL,static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2022-2023,Young Carer,static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,Young Carer,static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2024-2025,Young Carer,static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2022-2023,Looked After Child (LAC),static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,Looked After Child (LAC),static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2024-2025,Looked After Child (LAC),static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2022-2023,Autism Spectrum (ASC),static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,Autism Spectrum (ASC),static
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2024-2025,Autism Spectrum (ASC),static
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2020-2021,Speech/Language Need,static
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2021-2022,Speech/Language Need,static
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2022-2023,Speech/Language Need,static
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2023-2024,Speech/Language Need,static
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2024-2025,Speech/Language Need,static
+ce31426c-217d-4592-98de-4a4eef5979e9,2024-2025,Dyslexia,static
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2021-2022,EHCP,static
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2022-2023,EHCP,static
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2023-2024,EHCP,static
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2024-2025,EHCP,static
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2020-2021,Visual Impairment,static
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2021-2022,Visual Impairment,static
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2022-2023,Visual Impairment,static
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2023-2024,Visual Impairment,static
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2024-2025,Visual Impairment,static
+cf47bf4f-e961-4332-87e6-71b3f045a214,2020-2021,Speech/Language Need,static
+cf47bf4f-e961-4332-87e6-71b3f045a214,2021-2022,Speech/Language Need,static
+cf47bf4f-e961-4332-87e6-71b3f045a214,2022-2023,Speech/Language Need,static
+cf47bf4f-e961-4332-87e6-71b3f045a214,2023-2024,Speech/Language Need,static
+cf47bf4f-e961-4332-87e6-71b3f045a214,2024-2025,Speech/Language Need,static
+d03e82db-2717-42e5-b43f-a7c98472224e,2021-2022,Adopted,static
+d03e82db-2717-42e5-b43f-a7c98472224e,2022-2023,Adopted,static
+d03e82db-2717-42e5-b43f-a7c98472224e,2023-2024,Adopted,static
+d03e82db-2717-42e5-b43f-a7c98472224e,2024-2025,Adopted,static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2021-2022,EAL,static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,EAL,static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2023-2024,EAL,static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2024-2025,EAL,static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2021-2022,Looked After Child (LAC),static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,Looked After Child (LAC),static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2023-2024,Looked After Child (LAC),static
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2024-2025,Looked After Child (LAC),static
+d4dc8336-9679-4b70-8d14-2d21ec799a20,2023-2024,Young Carer,static
+d4dc8336-9679-4b70-8d14-2d21ec799a20,2024-2025,Young Carer,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2020-2021,Adopted,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2021-2022,Adopted,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2022-2023,Adopted,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2023-2024,Adopted,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2024-2025,Adopted,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2020-2021,ADHD Diagnosis,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2021-2022,ADHD Diagnosis,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2022-2023,ADHD Diagnosis,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2023-2024,ADHD Diagnosis,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2024-2025,ADHD Diagnosis,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2020-2021,Dyslexia,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2021-2022,Dyslexia,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2022-2023,Dyslexia,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2023-2024,Dyslexia,static
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2024-2025,Dyslexia,static
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2021-2022,Gifted & Talented,static
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2022-2023,Gifted & Talented,static
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2023-2024,Gifted & Talented,static
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2024-2025,Gifted & Talented,static
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2021-2022,Speech/Language Need,static
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2022-2023,Speech/Language Need,static
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2023-2024,Speech/Language Need,static
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2024-2025,Speech/Language Need,static
+db8fe274-bbb5-4b39-9e3f-63e646c98774,2022-2023,Free School Meals,static
+db8fe274-bbb5-4b39-9e3f-63e646c98774,2023-2024,Free School Meals,static
+db8fe274-bbb5-4b39-9e3f-63e646c98774,2024-2025,Free School Meals,static
+dc2c09a8-303e-4bf5-ba37-6376127bf50d,2024-2025,ADHD Diagnosis,static
+dc8f768e-5757-4778-a015-cd2c5cb73950,2024-2025,Adopted,static
+dc8f768e-5757-4778-a015-cd2c5cb73950,2024-2025,Transport Assistance,static
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2023-2024,ASC Diagnosis,static
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2024-2025,ASC Diagnosis,static
+e24621b1-9754-423d-9d77-8565c9599d53,2022-2023,Pupil Premium,static
+e24621b1-9754-423d-9d77-8565c9599d53,2023-2024,Pupil Premium,static
+e24621b1-9754-423d-9d77-8565c9599d53,2024-2025,Pupil Premium,static
+e4839483-52e0-4aba-9674-de2f1be6c57f,2023-2024,Adopted,static
+e4839483-52e0-4aba-9674-de2f1be6c57f,2024-2025,Adopted,static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2020-2021,Looked After Child (LAC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2021-2022,Looked After Child (LAC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2022-2023,Looked After Child (LAC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2023-2024,Looked After Child (LAC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2024-2025,Looked After Child (LAC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2020-2021,Autism Spectrum (ASC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2021-2022,Autism Spectrum (ASC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2022-2023,Autism Spectrum (ASC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2023-2024,Autism Spectrum (ASC),static
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2024-2025,Autism Spectrum (ASC),static
+e99ceae8-8157-42d3-99ed-a1cfc7c4251a,2024-2025,Adopted,static
+e99ceae8-8157-42d3-99ed-a1cfc7c4251a,2024-2025,Autism Spectrum (ASC),static
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2019-2020,Dyslexia,static
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2020-2021,Dyslexia,static
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2021-2022,Dyslexia,static
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2022-2023,Dyslexia,static
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2023-2024,Dyslexia,static
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2024-2025,Dyslexia,static
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2023-2024,Free School Meals,static
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2024-2025,Free School Meals,static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2021-2022,Refugee/Asylum Seeker,static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2022-2023,Refugee/Asylum Seeker,static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2023-2024,Refugee/Asylum Seeker,static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2024-2025,Refugee/Asylum Seeker,static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2021-2022,Autism Spectrum (ASC),static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2022-2023,Autism Spectrum (ASC),static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2023-2024,Autism Spectrum (ASC),static
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2024-2025,Autism Spectrum (ASC),static
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2021-2022,Autism Spectrum (ASC),static
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2022-2023,Autism Spectrum (ASC),static
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2023-2024,Autism Spectrum (ASC),static
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2024-2025,Autism Spectrum (ASC),static
+ef759656-ebbe-4f75-8934-dfc4a7931477,2022-2023,Adopted,static
+ef759656-ebbe-4f75-8934-dfc4a7931477,2023-2024,Adopted,static
+ef759656-ebbe-4f75-8934-dfc4a7931477,2024-2025,Adopted,static
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2019-2020,Refugee/Asylum Seeker,static
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2020-2021,Refugee/Asylum Seeker,static
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2021-2022,Refugee/Asylum Seeker,static
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2022-2023,Refugee/Asylum Seeker,static
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2023-2024,Refugee/Asylum Seeker,static
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2024-2025,Refugee/Asylum Seeker,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2019-2020,Visual Impairment,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2020-2021,Visual Impairment,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2021-2022,Visual Impairment,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2022-2023,Visual Impairment,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2023-2024,Visual Impairment,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2024-2025,Visual Impairment,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2019-2020,Free School Meals,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2020-2021,Free School Meals,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2021-2022,Free School Meals,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2022-2023,Free School Meals,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2023-2024,Free School Meals,static
+f3c87fd8-b238-4540-bedb-fec1a5623589,2024-2025,Free School Meals,static
+f4068980-c35b-4859-9fee-6b792aaa48d5,2024-2025,Refugee/Asylum Seeker,static
+f4068980-c35b-4859-9fee-6b792aaa48d5,2024-2025,Looked After Child (LAC),static
+f4068980-c35b-4859-9fee-6b792aaa48d5,2024-2025,Visual Impairment,static
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2022-2023,Adopted,static
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2023-2024,Adopted,static
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Adopted,static
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2022-2023,Hearing Impairment,static
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2023-2024,Hearing Impairment,static
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Hearing Impairment,static
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2019-2020,Dyslexia,static
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2020-2021,Dyslexia,static
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2021-2022,Dyslexia,static
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2022-2023,Dyslexia,static
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2023-2024,Dyslexia,static
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2024-2025,Dyslexia,static
+f704ed26-90c7-4fde-abf4-adf551d96a0e,2023-2024,Gifted & Talented,static
+f704ed26-90c7-4fde-abf4-adf551d96a0e,2024-2025,Gifted & Talented,static
+f704ed26-90c7-4fde-abf4-adf551d96a0e,2023-2024,Free School Meals,static
+f704ed26-90c7-4fde-abf4-adf551d96a0e,2024-2025,Free School Meals,static
+f7f57769-db69-493f-be09-1af4091b7df7,2023-2024,Visual Impairment,static
+f7f57769-db69-493f-be09-1af4091b7df7,2024-2025,Visual Impairment,static
+f926d5f4-c0e9-446c-b806-b5df7fc51128,2024-2025,Transport Assistance,static
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2021-2022,Gifted & Talented,static
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2022-2023,Gifted & Talented,static
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2023-2024,Gifted & Talented,static
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2024-2025,Gifted & Talented,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2021-2022,Visual Impairment,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2022-2023,Visual Impairment,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2023-2024,Visual Impairment,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2024-2025,Visual Impairment,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2021-2022,Speech/Language Need,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2022-2023,Speech/Language Need,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2023-2024,Speech/Language Need,static
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2024-2025,Speech/Language Need,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2020-2021,Dyspraxia,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2021-2022,Dyspraxia,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2022-2023,Dyspraxia,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2023-2024,Dyspraxia,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2024-2025,Dyspraxia,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2020-2021,Free School Meals,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2021-2022,Free School Meals,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2022-2023,Free School Meals,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2023-2024,Free School Meals,static
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2024-2025,Free School Meals,static
+fc949718-c36a-47a1-b416-b02eba37a035,2022-2023,Dyslexia,static
+fc949718-c36a-47a1-b416-b02eba37a035,2023-2024,Dyslexia,static
+fc949718-c36a-47a1-b416-b02eba37a035,2024-2025,Dyslexia,static
+fcfc9bd7-f4b3-4b7a-9b15-3937c2a84a99,2023-2024,Dyspraxia,static
+fcfc9bd7-f4b3-4b7a-9b15-3937c2a84a99,2024-2025,Dyspraxia,static
+fdce04ca-7ef6-4765-9199-2703ef2e78b8,2024-2025,Free School Meals,static
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2019-2020,Child in Need Plan,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2020-2021,Domestic Abuse Exposure,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2021-2022,Substance Concern,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2022-2023,Safeguarding Referral,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2022-2023,Recent Move/Transition,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2022-2023,Online Safety Concern,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2023-2024,Bullying,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2023-2024,CAMHS Referral,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2024-2025,Bullying,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2024-2025,CP Plan,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2024-2025,Online Safety Concern,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2024-2025,Financial Hardship,dynamic
+30d7ca8c-87c5-490c-ac6a-fd4167ed38e3,2024-2025,Medical Appointment Burden,dynamic
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2021-2022,Police Involvement,dynamic
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2022-2023,Bereavement,dynamic
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2022-2023,CP Plan,dynamic
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2022-2023,Police Involvement,dynamic
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2023-2024,Child in Need Plan,dynamic
+eac1ea9a-0742-44fa-b3b3-6b7346f3d161,2024-2025,Recent Move/Transition,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2019-2020,Bullying,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2019-2020,CAMHS Referral,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2019-2020,Self-Harm Concern,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2020-2021,CP Plan,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2020-2021,Substance Concern,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2021-2022,Low Mood,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2021-2022,Exclusion,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2021-2022,Financial Hardship,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2022-2023,CAMHS Referral,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2022-2023,Housing Instability,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2022-2023,Parental Separation,dynamic
+4ba2bca0-bf43-485b-aa16-6f6ad5b7e509,2023-2024,CAMHS Referral,dynamic
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2019-2020,Bullying,dynamic
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2019-2020,CAMHS Referral,dynamic
+b2b56eeb-6544-449d-8501-38c81fd1a64c,2021-2022,Low Mood,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2019-2020,Young Carer Increased Duties,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2020-2021,Family Difficulty,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2021-2022,Low Mood,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2021-2022,Domestic Abuse Exposure,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2021-2022,Medical Appointment Burden,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2022-2023,Attendance < 90%,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2022-2023,Peer Conflict,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2022-2023,Online Safety Concern,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2022-2023,Substance Concern,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2023-2024,New Diagnosis,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2024-2025,Bereavement,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2024-2025,Self-Harm Concern,dynamic
+cb89fc48-9013-42a3-9477-eed170e1a12e,2024-2025,Peer Conflict,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2019-2020,CP Plan,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2019-2020,Substance Concern,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2020-2021,Social Worker Involved,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2020-2021,CP Plan,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2021-2022,Exclusion,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2021-2022,Peer Conflict,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2022-2023,Low Mood,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2022-2023,Bullying,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2022-2023,Safeguarding Referral,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2022-2023,Online Safety Concern,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2023-2024,Safeguarding Referral,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2023-2024,Parental Separation,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2024-2025,Low Mood,dynamic
+354a839f-d05b-4578-8c90-4851b6d266bd,2024-2025,Attendance < 80%,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2019-2020,Low Mood,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2019-2020,Safeguarding Referral,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2020-2021,Attendance < 90%,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2021-2022,Attendance < 90%,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2021-2022,Exclusion,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2023-2024,Exclusion,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2023-2024,Housing Instability,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2023-2024,Attendance < 80%,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2023-2024,Peer Conflict,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2023-2024,Medical Appointment Burden,dynamic
+acd1a447-c14e-4f08-837f-fe349cab58aa,2024-2025,Safeguarding Referral,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2019-2020,Low Mood,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2019-2020,Bullying,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2019-2020,Self-Harm Concern,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2019-2020,Young Carer Increased Duties,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2020-2021,Low Mood,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2021-2022,Self-Harm Concern,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2022-2023,Safeguarding Referral,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2022-2023,Substance Concern,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2023-2024,Substance Concern,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2023-2024,Young Carer Increased Duties,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2024-2025,Exclusion,dynamic
+fe4ab165-3b16-4bd6-a51d-caaeb37ede92,2024-2025,CAMHS Referral,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2019-2020,Safeguarding Referral,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2019-2020,Family Difficulty,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2019-2020,CP Plan,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2021-2022,Attendance < 90%,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2021-2022,Child in Need Plan,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2021-2022,Parental Separation,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2022-2023,Parental Separation,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2022-2023,Young Carer Increased Duties,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2023-2024,Peer Conflict,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2023-2024,Financial Hardship,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2024-2025,Bereavement,dynamic
+8c0e1e01-8cb0-418d-b2bc-1ae4b13d70d8,2024-2025,Recent Move/Transition,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2020-2021,Safeguarding Referral,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2020-2021,Substance Concern,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2021-2022,Bereavement,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2021-2022,Recent Move/Transition,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2022-2023,Bullying,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2023-2024,Family Difficulty,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2024-2025,Low Mood,dynamic
+0565ea1d-08d5-41b8-826c-73b31153a0f1,2024-2025,CAMHS Referral,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2019-2020,CP Plan,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2019-2020,Peer Conflict,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2019-2020,Financial Hardship,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2020-2021,New Diagnosis,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2020-2021,Peer Conflict,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2023-2024,Bullying,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2023-2024,Substance Concern,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2023-2024,Financial Hardship,dynamic
+247f6ec8-a1a3-4e95-bbd7-8e7443f67dcf,2024-2025,Safeguarding Referral,dynamic
+0b8dca40-6354-4d3a-9c93-fb1d42e8a06d,2019-2020,Police Involvement,dynamic
+0b8dca40-6354-4d3a-9c93-fb1d42e8a06d,2019-2020,Online Safety Concern,dynamic
+0b8dca40-6354-4d3a-9c93-fb1d42e8a06d,2019-2020,Young Carer Increased Duties,dynamic
+0b8dca40-6354-4d3a-9c93-fb1d42e8a06d,2021-2022,Peer Conflict,dynamic
+0b8dca40-6354-4d3a-9c93-fb1d42e8a06d,2022-2023,Substance Concern,dynamic
+0b8dca40-6354-4d3a-9c93-fb1d42e8a06d,2024-2025,Safeguarding Referral,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2019-2020,Safeguarding Referral,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2019-2020,Financial Hardship,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2020-2021,Bereavement,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2020-2021,Child in Need Plan,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2021-2022,Safeguarding Referral,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2021-2022,Housing Instability,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2021-2022,Peer Conflict,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2022-2023,Exclusion,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2022-2023,Recent Move/Transition,dynamic
+f628b27f-2ad8-48fa-a9c2-b19d2fd3827b,2023-2024,Attendance < 80%,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2019-2020,Online Safety Concern,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2020-2021,CAMHS Referral,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2021-2022,Low Mood,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2022-2023,New Diagnosis,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2022-2023,Housing Instability,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2022-2023,Domestic Abuse Exposure,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2023-2024,CP Plan,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2024-2025,Low Mood,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2024-2025,Child in Need Plan,dynamic
+696b60ac-df8d-4081-98cb-9761056e89f6,2024-2025,Financial Hardship,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2019-2020,CAMHS Referral,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2019-2020,Attendance < 80%,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2020-2021,Bereavement,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2020-2021,Family Difficulty,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2021-2022,Bullying,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2021-2022,Child in Need Plan,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2022-2023,CP Plan,dynamic
+6c93312a-0517-42a4-bb0c-e708d1a92c2b,2024-2025,Bereavement,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2019-2020,Attendance < 90%,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2019-2020,Low Mood,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2019-2020,New Diagnosis,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2019-2020,Medical Appointment Burden,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2020-2021,Social Worker Involved,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2021-2022,Bullying,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2021-2022,Housing Instability,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2021-2022,Recent Move/Transition,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2022-2023,Low Mood,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2022-2023,CP Plan,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2022-2023,Recent Move/Transition,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2022-2023,Online Safety Concern,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2022-2023,Medical Appointment Burden,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2023-2024,Safeguarding Referral,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2023-2024,Child in Need Plan,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2023-2024,Self-Harm Concern,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2023-2024,Parental Separation,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2024-2025,Attendance < 80%,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2024-2025,Online Safety Concern,dynamic
+baa42367-c613-4e21-bd73-b945a6850ba0,2024-2025,Parental Separation,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2019-2020,Police Involvement,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2020-2021,Family Difficulty,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2020-2021,Domestic Abuse Exposure,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2021-2022,Low Mood,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2021-2022,Child in Need Plan,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2022-2023,Social Worker Involved,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2023-2024,Low Mood,dynamic
+c2882cc9-a299-4256-9cb6-0e5141bbd88f,2023-2024,Housing Instability,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2019-2020,Bereavement,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2019-2020,Social Worker Involved,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2019-2020,Attendance < 80%,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2019-2020,Substance Concern,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2019-2020,Financial Hardship,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2021-2022,CAMHS Referral,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2021-2022,Parental Separation,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2023-2024,Safeguarding Referral,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2023-2024,New Diagnosis,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2023-2024,Domestic Abuse Exposure,dynamic
+beae2e38-0c59-4063-a3ff-bcae1e0c94d2,2024-2025,Bereavement,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2019-2020,Attendance < 90%,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2020-2021,Bereavement,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2020-2021,New Diagnosis,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2020-2021,Parental Separation,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2021-2022,Bereavement,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2021-2022,Exclusion,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2021-2022,Attendance < 80%,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2021-2022,Young Carer Increased Duties,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2022-2023,Social Worker Involved,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2022-2023,CP Plan,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2022-2023,Attendance < 80%,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2022-2023,Online Safety Concern,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2023-2024,Safeguarding Referral,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2024-2025,Bullying,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2024-2025,Social Worker Involved,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2024-2025,CP Plan,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2024-2025,Attendance < 80%,dynamic
+4170287a-1dba-4c06-b9a6-a4715d9aff04,2024-2025,Peer Conflict,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2019-2020,Safeguarding Referral,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2019-2020,CAMHS Referral,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2019-2020,Self-Harm Concern,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2019-2020,Medical Appointment Burden,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2020-2021,Low Mood,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2020-2021,Recent Move/Transition,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2020-2021,Attendance < 80%,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2020-2021,Online Safety Concern,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2020-2021,Young Carer Increased Duties,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2021-2022,Safeguarding Referral,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2021-2022,Family Difficulty,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2021-2022,Parental Separation,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2022-2023,Social Worker Involved,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2022-2023,Exclusion,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2023-2024,Online Safety Concern,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2024-2025,CAMHS Referral,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2024-2025,Peer Conflict,dynamic
+23beb5c2-c86a-428a-85a3-9cb9fbe9c389,2024-2025,Medical Appointment Burden,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2019-2020,CAMHS Referral,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2019-2020,Substance Concern,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2020-2021,Bullying,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2020-2021,Safeguarding Referral,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2020-2021,Exclusion,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2020-2021,Substance Concern,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2021-2022,CP Plan,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2022-2023,CP Plan,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2022-2023,Recent Move/Transition,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2023-2024,Attendance < 90%,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2023-2024,Child in Need Plan,dynamic
+a2b8594d-fd49-436d-a030-0f6154787662,2024-2025,Attendance < 90%,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2020-2021,Attendance < 90%,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2020-2021,Low Mood,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2020-2021,Young Carer Increased Duties,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2021-2022,Safeguarding Referral,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2021-2022,Parental Separation,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2022-2023,Attendance < 90%,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2023-2024,Housing Instability,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2024-2025,Attendance < 90%,dynamic
+35e0c7e6-0068-452f-9972-3a2a509028dc,2024-2025,Child in Need Plan,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2019-2020,Attendance < 90%,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2019-2020,Police Involvement,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2019-2020,Self-Harm Concern,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2020-2021,Safeguarding Referral,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2020-2021,Housing Instability,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2021-2022,Exclusion,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2021-2022,Police Involvement,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2021-2022,Online Safety Concern,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2022-2023,Financial Hardship,dynamic
+f01d2976-14b0-47d4-ac0a-947335be7d1b,2024-2025,Safeguarding Referral,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2019-2020,New Diagnosis,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2019-2020,CP Plan,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2019-2020,Financial Hardship,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2020-2021,Bereavement,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2020-2021,Domestic Abuse Exposure,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2020-2021,Young Carer Increased Duties,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2021-2022,CAMHS Referral,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2021-2022,Family Difficulty,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2021-2022,Attendance < 80%,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2022-2023,Safeguarding Referral,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2023-2024,Medical Appointment Burden,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2023-2024,Young Carer Increased Duties,dynamic
+4bd58e00-2fec-44cf-ac7b-2a2266414a38,2024-2025,Recent Move/Transition,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2019-2020,Exclusion,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2019-2020,CAMHS Referral,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2021-2022,Recent Move/Transition,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2021-2022,Online Safety Concern,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2022-2023,Bereavement,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2022-2023,Housing Instability,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2022-2023,Recent Move/Transition,dynamic
+933d7bcf-2e25-4047-ba08-efb85aa23d02,2023-2024,Low Mood,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2019-2020,Bullying,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2019-2020,Substance Concern,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2019-2020,Young Carer Increased Duties,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2020-2021,Attendance < 90%,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2020-2021,Family Difficulty,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2020-2021,Attendance < 80%,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2020-2021,Self-Harm Concern,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2021-2022,Parental Separation,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2022-2023,Self-Harm Concern,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2022-2023,Substance Concern,dynamic
+3a6c9135-b811-45d7-8f13-96aff186fdd7,2024-2025,Family Difficulty,dynamic
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2019-2020,Social Worker Involved,dynamic
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2019-2020,Domestic Abuse Exposure,dynamic
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2019-2020,Medical Appointment Burden,dynamic
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2022-2023,Low Mood,dynamic
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2023-2024,New Diagnosis,dynamic
+19e7bb52-a242-408a-b54f-f0c82b5e8a78,2023-2024,Family Difficulty,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2019-2020,Substance Concern,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2019-2020,Parental Separation,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2020-2021,Domestic Abuse Exposure,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2021-2022,Family Difficulty,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2021-2022,Child in Need Plan,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2021-2022,Self-Harm Concern,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2022-2023,Bullying,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2022-2023,CAMHS Referral,dynamic
+92f89a73-9ace-454d-976c-45ffb4595629,2023-2024,Attendance < 90%,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2019-2020,Exclusion,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2019-2020,Housing Instability,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2019-2020,Online Safety Concern,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2020-2021,Safeguarding Referral,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2021-2022,Low Mood,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2021-2022,Financial Hardship,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2021-2022,Medical Appointment Burden,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2022-2023,Attendance < 90%,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2023-2024,Parental Separation,dynamic
+4dd27636-923a-4883-ad52-e8a5002f4fb9,2024-2025,Medical Appointment Burden,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2020-2021,Low Mood,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2020-2021,Substance Concern,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2021-2022,CP Plan,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2021-2022,Police Involvement,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2021-2022,Parental Separation,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2022-2023,Medical Appointment Burden,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2023-2024,Low Mood,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Bullying,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Social Worker Involved,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Recent Move/Transition,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Attendance < 80%,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Domestic Abuse Exposure,dynamic
+a854d0aa-a34b-4095-bbdf-08d6bf1cc227,2024-2025,Young Carer Increased Duties,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2020-2021,Police Involvement,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2020-2021,Online Safety Concern,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2022-2023,Safeguarding Referral,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2022-2023,Peer Conflict,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2023-2024,Bereavement,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2023-2024,Safeguarding Referral,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2024-2025,Safeguarding Referral,dynamic
+70bb1218-b8ad-4842-8f23-dfcb944be9dd,2024-2025,Exclusion,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2019-2020,Safeguarding Referral,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2019-2020,CAMHS Referral,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2019-2020,Child in Need Plan,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2019-2020,Police Involvement,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2019-2020,Young Carer Increased Duties,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2020-2021,Bereavement,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2020-2021,Safeguarding Referral,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2020-2021,CAMHS Referral,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2020-2021,Housing Instability,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2022-2023,CAMHS Referral,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2023-2024,Exclusion,dynamic
+40cca0ac-78f1-47e8-9dc0-84b6a86a5e46,2023-2024,Online Safety Concern,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2019-2020,Attendance < 90%,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2020-2021,Recent Move/Transition,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2020-2021,Peer Conflict,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2020-2021,Domestic Abuse Exposure,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2021-2022,Attendance < 90%,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2021-2022,Police Involvement,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2021-2022,Online Safety Concern,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2021-2022,Substance Concern,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2022-2023,Social Worker Involved,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2023-2024,Substance Concern,dynamic
+701acbed-cf4a-4ec0-b05d-bcdbf246dd5e,2024-2025,Recent Move/Transition,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2019-2020,Low Mood,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2019-2020,Safeguarding Referral,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2019-2020,CAMHS Referral,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2019-2020,Housing Instability,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2019-2020,Attendance < 80%,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2019-2020,Financial Hardship,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2020-2021,Attendance < 80%,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2021-2022,Family Difficulty,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2022-2023,Bereavement,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2022-2023,Bullying,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2022-2023,Medical Appointment Burden,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2023-2024,Safeguarding Referral,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2024-2025,Low Mood,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2024-2025,Self-Harm Concern,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2024-2025,Peer Conflict,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2024-2025,Substance Concern,dynamic
+ae938fd8-f635-4a4a-86f8-43bf5c31b700,2024-2025,Young Carer Increased Duties,dynamic
+f3c87fd8-b238-4540-bedb-fec1a5623589,2020-2021,Bereavement,dynamic
+f3c87fd8-b238-4540-bedb-fec1a5623589,2020-2021,Young Carer Increased Duties,dynamic
+f3c87fd8-b238-4540-bedb-fec1a5623589,2021-2022,Exclusion,dynamic
+f3c87fd8-b238-4540-bedb-fec1a5623589,2022-2023,Bereavement,dynamic
+f3c87fd8-b238-4540-bedb-fec1a5623589,2023-2024,Bereavement,dynamic
+f3c87fd8-b238-4540-bedb-fec1a5623589,2023-2024,Bullying,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2019-2020,Exclusion,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2019-2020,Financial Hardship,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2020-2021,Safeguarding Referral,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2021-2022,Self-Harm Concern,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2022-2023,Low Mood,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2022-2023,Recent Move/Transition,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2023-2024,Domestic Abuse Exposure,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2023-2024,Financial Hardship,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2024-2025,CAMHS Referral,dynamic
+4da7c990-41a9-49f4-96a6-9d6e3ead39b6,2024-2025,Medical Appointment Burden,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2020-2021,CAMHS Referral,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2020-2021,Police Involvement,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2021-2022,Parental Separation,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2022-2023,Social Worker Involved,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2022-2023,Peer Conflict,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2022-2023,Parental Separation,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2023-2024,Bereavement,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2024-2025,Safeguarding Referral,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2024-2025,Exclusion,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2024-2025,CAMHS Referral,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2024-2025,Substance Concern,dynamic
+a8d4b824-f8fd-45c8-95ae-f466575f1388,2024-2025,Parental Separation,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2020-2021,Self-Harm Concern,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2020-2021,Peer Conflict,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2020-2021,Domestic Abuse Exposure,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2021-2022,Low Mood,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2021-2022,Peer Conflict,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2021-2022,Substance Concern,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2022-2023,Low Mood,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2022-2023,Safeguarding Referral,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2024-2025,Bullying,dynamic
+ece2acfb-d561-4e8f-99f2-c550a67196ac,2024-2025,Safeguarding Referral,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2019-2020,Family Difficulty,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2019-2020,Child in Need Plan,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2019-2020,Attendance < 80%,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2019-2020,Substance Concern,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2020-2021,Low Mood,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2020-2021,Bullying,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2020-2021,Recent Move/Transition,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2020-2021,Medical Appointment Burden,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2021-2022,Social Worker Involved,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2021-2022,Recent Move/Transition,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2021-2022,Self-Harm Concern,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2021-2022,Online Safety Concern,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2023-2024,Low Mood,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2023-2024,Safeguarding Referral,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2024-2025,Social Worker Involved,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2024-2025,Safeguarding Referral,dynamic
+602cfa65-598a-4d30-b839-0816c7ab5a5f,2024-2025,CAMHS Referral,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2019-2020,Medical Appointment Burden,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2020-2021,Safeguarding Referral,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2020-2021,Young Carer Increased Duties,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2021-2022,Medical Appointment Burden,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2023-2024,Attendance < 90%,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2023-2024,Police Involvement,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2023-2024,Financial Hardship,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2023-2024,Young Carer Increased Duties,dynamic
+02ec1f8c-cb16-4af4-83dc-0c4f8f5f2569,2024-2025,Young Carer Increased Duties,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2019-2020,Low Mood,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2020-2021,Housing Instability,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2020-2021,Child in Need Plan,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2020-2021,Attendance < 80%,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2021-2022,Young Carer Increased Duties,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2022-2023,Low Mood,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2022-2023,Social Worker Involved,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2022-2023,New Diagnosis,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2023-2024,Parental Separation,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2023-2024,Financial Hardship,dynamic
+c42c9d21-7181-4691-8814-a5b23c90c8db,2024-2025,Bereavement,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2019-2020,CP Plan,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2019-2020,Parental Separation,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2020-2021,Low Mood,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2021-2022,Safeguarding Referral,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2021-2022,Child in Need Plan,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2023-2024,CAMHS Referral,dynamic
+aac29761-14a6-4a6d-ac61-a7ecd901d2a7,2023-2024,Online Safety Concern,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2019-2020,Low Mood,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2019-2020,Safeguarding Referral,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2019-2020,Attendance < 80%,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2019-2020,Domestic Abuse Exposure,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2020-2021,New Diagnosis,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2020-2021,Self-Harm Concern,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2021-2022,Attendance < 90%,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2021-2022,Low Mood,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2021-2022,Bullying,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2021-2022,CAMHS Referral,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2021-2022,CP Plan,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2023-2024,Online Safety Concern,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2024-2025,CAMHS Referral,dynamic
+bde6b5ba-c610-4d66-beec-5af8451c169d,2024-2025,Police Involvement,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2020-2021,Self-Harm Concern,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2021-2022,Medical Appointment Burden,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2022-2023,Housing Instability,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2023-2024,Safeguarding Referral,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2023-2024,Child in Need Plan,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2024-2025,Bereavement,dynamic
+218e2ec0-6996-4855-aaf6-7159b0a61c4f,2024-2025,Family Difficulty,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2019-2020,Bullying,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2019-2020,Domestic Abuse Exposure,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2019-2020,Financial Hardship,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2020-2021,Safeguarding Referral,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2021-2022,Peer Conflict,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2021-2022,Domestic Abuse Exposure,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2023-2024,Low Mood,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2023-2024,CP Plan,dynamic
+1f951402-9337-422f-8372-51d3d26e771c,2023-2024,Financial Hardship,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2020-2021,Bereavement,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2020-2021,CAMHS Referral,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2021-2022,Child in Need Plan,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2022-2023,Safeguarding Referral,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2022-2023,Domestic Abuse Exposure,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2024-2025,Self-Harm Concern,dynamic
+c5596d5d-481c-4136-b1a9-f223276a2c89,2024-2025,Online Safety Concern,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2021-2022,Low Mood,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2021-2022,CAMHS Referral,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2021-2022,Peer Conflict,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2022-2023,Substance Concern,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2023-2024,Housing Instability,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2023-2024,Police Involvement,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2023-2024,Domestic Abuse Exposure,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2024-2025,Child in Need Plan,dynamic
+e9eb56c0-a870-45e0-b00d-075bc00ca12d,2024-2025,Peer Conflict,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2020-2021,New Diagnosis,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2020-2021,Domestic Abuse Exposure,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,Bereavement,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,Safeguarding Referral,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,CP Plan,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,Recent Move/Transition,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2021-2022,Peer Conflict,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2022-2023,Bullying,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2022-2023,Social Worker Involved,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2023-2024,Low Mood,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2023-2024,Bereavement,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2023-2024,Housing Instability,dynamic
+8168e244-75f9-4888-b4c7-cc8d33ece73b,2024-2025,New Diagnosis,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2020-2021,Attendance < 90%,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2021-2022,Young Carer Increased Duties,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2022-2023,Low Mood,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2022-2023,Self-Harm Concern,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2023-2024,Self-Harm Concern,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2024-2025,Exclusion,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2024-2025,CAMHS Referral,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2024-2025,Child in Need Plan,dynamic
+e49d3ecd-7aa8-4085-a9f6-147b9b5ad942,2024-2025,Domestic Abuse Exposure,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2020-2021,Domestic Abuse Exposure,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2021-2022,Low Mood,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2021-2022,Child in Need Plan,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2021-2022,Medical Appointment Burden,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2021-2022,Young Carer Increased Duties,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2022-2023,CP Plan,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2022-2023,Attendance < 80%,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2023-2024,Bullying,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2023-2024,Self-Harm Concern,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2024-2025,Low Mood,dynamic
+cb2d6585-32e9-40a1-9afd-1cfb826e762b,2024-2025,Financial Hardship,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2020-2021,Parental Separation,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2021-2022,Attendance < 90%,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2021-2022,Parental Separation,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2021-2022,Medical Appointment Burden,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2022-2023,Low Mood,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2022-2023,Domestic Abuse Exposure,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2022-2023,Financial Hardship,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2023-2024,Safeguarding Referral,dynamic
+11d84b53-d126-4c19-af8c-f275845294ac,2023-2024,Attendance < 80%,dynamic
+c2e4fd4c-84d9-49b5-bca0-721e1b82df43,2021-2022,CAMHS Referral,dynamic
+c2e4fd4c-84d9-49b5-bca0-721e1b82df43,2023-2024,Bullying,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2020-2021,Family Difficulty,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2020-2021,Financial Hardship,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2021-2022,Online Safety Concern,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2021-2022,Domestic Abuse Exposure,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2022-2023,Bereavement,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2023-2024,Bullying,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2023-2024,Safeguarding Referral,dynamic
+5a07c963-910b-44e6-ba98-56d40d5e1128,2023-2024,CAMHS Referral,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2020-2021,Social Worker Involved,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2020-2021,Family Difficulty,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2020-2021,Recent Move/Transition,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2020-2021,Financial Hardship,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2021-2022,Child in Need Plan,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2022-2023,Safeguarding Referral,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2022-2023,CAMHS Referral,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2022-2023,New Diagnosis,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2022-2023,Domestic Abuse Exposure,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2023-2024,Bereavement,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2023-2024,Exclusion,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2023-2024,CAMHS Referral,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2023-2024,Domestic Abuse Exposure,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2024-2025,Bullying,dynamic
+0a9cf851-a297-46c0-ada7-f0ad726269ab,2024-2025,CP Plan,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2020-2021,Safeguarding Referral,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2020-2021,Family Difficulty,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2021-2022,Exclusion,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2021-2022,Housing Instability,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2022-2023,Bereavement,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2022-2023,Safeguarding Referral,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2023-2024,Low Mood,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2023-2024,Safeguarding Referral,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2023-2024,Family Difficulty,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2023-2024,Attendance < 80%,dynamic
+28737aba-6f4e-41ae-9c82-bc3f4afecb8c,2024-2025,Online Safety Concern,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2020-2021,CAMHS Referral,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2021-2022,Low Mood,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2021-2022,CP Plan,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2022-2023,Safeguarding Referral,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2022-2023,Peer Conflict,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2023-2024,Safeguarding Referral,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2023-2024,CAMHS Referral,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2023-2024,New Diagnosis,dynamic
+240a2549-b0fd-4dc5-9a91-0e51fea45fd5,2024-2025,Attendance < 80%,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2020-2021,Attendance < 90%,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2020-2021,Low Mood,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2021-2022,Bullying,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2021-2022,New Diagnosis,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2021-2022,Peer Conflict,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2022-2023,Safeguarding Referral,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2023-2024,Substance Concern,dynamic
+3fc3be86-8a0b-448a-9ebc-6ddec14243b6,2023-2024,Young Carer Increased Duties,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2020-2021,Bullying,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2020-2021,Child in Need Plan,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2020-2021,Substance Concern,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2020-2021,Medical Appointment Burden,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2021-2022,Medical Appointment Burden,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2022-2023,Bereavement,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2022-2023,Exclusion,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2022-2023,Attendance < 80%,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2022-2023,Parental Separation,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2023-2024,Low Mood,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2023-2024,Social Worker Involved,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2023-2024,Medical Appointment Burden,dynamic
+0aee584f-05e4-4aaa-b10a-1499d7172b26,2024-2025,New Diagnosis,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2020-2021,Exclusion,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2020-2021,Recent Move/Transition,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2021-2022,Bullying,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2021-2022,Housing Instability,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2022-2023,Exclusion,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2023-2024,Social Worker Involved,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2023-2024,New Diagnosis,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2023-2024,Police Involvement,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2024-2025,Safeguarding Referral,dynamic
+9b1392fa-5d53-4363-b08c-f5c7e319a210,2024-2025,Housing Instability,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2020-2021,Low Mood,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2020-2021,Safeguarding Referral,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2020-2021,CAMHS Referral,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2021-2022,Family Difficulty,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2021-2022,Attendance < 80%,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2021-2022,Parental Separation,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2022-2023,Family Difficulty,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2022-2023,Peer Conflict,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2023-2024,Young Carer Increased Duties,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2024-2025,Bereavement,dynamic
+9b556d94-3464-43ba-a589-c08f9b2a8a07,2024-2025,Online Safety Concern,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2020-2021,Family Difficulty,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2020-2021,CP Plan,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2020-2021,Peer Conflict,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2021-2022,Bereavement,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2021-2022,Safeguarding Referral,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2021-2022,CAMHS Referral,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2021-2022,Self-Harm Concern,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2022-2023,Young Carer Increased Duties,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2023-2024,Safeguarding Referral,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2023-2024,Police Involvement,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2024-2025,CAMHS Referral,dynamic
+7ba1e53b-36e7-4b36-95b3-350c77c96895,2024-2025,Housing Instability,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2020-2021,Exclusion,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2021-2022,Family Difficulty,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2021-2022,CP Plan,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2021-2022,Parental Separation,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2022-2023,Self-Harm Concern,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2022-2023,Domestic Abuse Exposure,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2023-2024,Bereavement,dynamic
+6d1290ec-b42b-4e0c-b3cd-ef155f7bdf63,2023-2024,Parental Separation,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2020-2021,Attendance < 90%,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2020-2021,Family Difficulty,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2020-2021,Housing Instability,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2020-2021,Police Involvement,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2021-2022,Housing Instability,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2021-2022,Child in Need Plan,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2021-2022,Attendance < 80%,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2022-2023,Police Involvement,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2024-2025,Low Mood,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2024-2025,New Diagnosis,dynamic
+3d90b1ac-c884-478f-968a-102a4581ee7f,2024-2025,Parental Separation,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2020-2021,Low Mood,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2021-2022,Safeguarding Referral,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2021-2022,Family Difficulty,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2021-2022,Police Involvement,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2021-2022,Self-Harm Concern,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2022-2023,Police Involvement,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2022-2023,Online Safety Concern,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2022-2023,Young Carer Increased Duties,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2023-2024,Parental Separation,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2023-2024,Young Carer Increased Duties,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2024-2025,Social Worker Involved,dynamic
+94439584-285f-4259-ad4f-f527569ac95c,2024-2025,CP Plan,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2020-2021,Child in Need Plan,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2021-2022,CAMHS Referral,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2021-2022,CP Plan,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2022-2023,Low Mood,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2023-2024,Exclusion,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2023-2024,Child in Need Plan,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2023-2024,Recent Move/Transition,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2023-2024,Domestic Abuse Exposure,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2024-2025,Family Difficulty,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2024-2025,CP Plan,dynamic
+ad5b80c0-d901-4152-a03e-a6ae2c613214,2024-2025,Young Carer Increased Duties,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2020-2021,Safeguarding Referral,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2020-2021,Family Difficulty,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2021-2022,Online Safety Concern,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2021-2022,Substance Concern,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2021-2022,Parental Separation,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2022-2023,CAMHS Referral,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2023-2024,Housing Instability,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2023-2024,Self-Harm Concern,dynamic
+ce6b106f-5a3a-44cd-98e6-8023f80adf0d,2024-2025,Low Mood,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2020-2021,Family Difficulty,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2020-2021,Police Involvement,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2021-2022,Social Worker Involved,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2021-2022,CAMHS Referral,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2021-2022,Recent Move/Transition,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2022-2023,Exclusion,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2024-2025,Family Difficulty,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2024-2025,Housing Instability,dynamic
+a5d8dfca-e876-45da-a21c-a211fc07c25a,2024-2025,Parental Separation,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2020-2021,Bullying,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2020-2021,Police Involvement,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2020-2021,Substance Concern,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2020-2021,Medical Appointment Burden,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2021-2022,Attendance < 90%,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2022-2023,Peer Conflict,dynamic
+523a5455-72b2-4150-982f-0036ba53d2d6,2023-2024,Police Involvement,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2020-2021,Recent Move/Transition,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2020-2021,Online Safety Concern,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2021-2022,Social Worker Involved,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2021-2022,Online Safety Concern,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2022-2023,Housing Instability,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2022-2023,Financial Hardship,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2023-2024,CAMHS Referral,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2023-2024,Recent Move/Transition,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2024-2025,Social Worker Involved,dynamic
+991ec396-17d1-41ee-bbbe-68b078fb1bd2,2024-2025,Housing Instability,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Bullying,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Social Worker Involved,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Exclusion,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Police Involvement,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Recent Move/Transition,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Online Safety Concern,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Parental Separation,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Domestic Abuse Exposure,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2022-2023,Medical Appointment Burden,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2023-2024,Bullying,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2023-2024,Family Difficulty,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2024-2025,CAMHS Referral,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2024-2025,Attendance < 80%,dynamic
+94985318-6f65-4be9-bfba-7f24c06390e1,2024-2025,Young Carer Increased Duties,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2020-2021,Attendance < 90%,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2020-2021,Safeguarding Referral,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2021-2022,CAMHS Referral,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2022-2023,Financial Hardship,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2023-2024,Exclusion,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2023-2024,CAMHS Referral,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2024-2025,Low Mood,dynamic
+fbd355cf-e932-49d8-8f72-11538aa82a4c,2024-2025,Attendance < 80%,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2020-2021,Low Mood,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2020-2021,Safeguarding Referral,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2020-2021,Online Safety Concern,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2020-2021,Financial Hardship,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2021-2022,Recent Move/Transition,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2022-2023,Recent Move/Transition,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2022-2023,Online Safety Concern,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2022-2023,Young Carer Increased Duties,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2023-2024,Social Worker Involved,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2024-2025,Peer Conflict,dynamic
+56d5dd14-c8ad-41d3-8e61-2a2190c0eff2,2024-2025,Domestic Abuse Exposure,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2020-2021,Attendance < 80%,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2020-2021,Financial Hardship,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2021-2022,Child in Need Plan,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2021-2022,Medical Appointment Burden,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2022-2023,Bullying,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2022-2023,Safeguarding Referral,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2023-2024,Domestic Abuse Exposure,dynamic
+4e4a7c1c-d98c-4566-a7b1-109714c9755e,2024-2025,Bereavement,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2020-2021,Bereavement,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2022-2023,Domestic Abuse Exposure,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2022-2023,Medical Appointment Burden,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2023-2024,CAMHS Referral,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2023-2024,New Diagnosis,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2024-2025,Safeguarding Referral,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2024-2025,New Diagnosis,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2024-2025,Housing Instability,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2024-2025,Child in Need Plan,dynamic
+49fc80cc-3234-4c1f-a200-300cc8db2a43,2024-2025,Substance Concern,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2020-2021,Police Involvement,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2020-2021,Parental Separation,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2021-2022,Social Worker Involved,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2021-2022,Safeguarding Referral,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2021-2022,CP Plan,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2021-2022,Self-Harm Concern,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2022-2023,Bullying,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2022-2023,Safeguarding Referral,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2022-2023,CP Plan,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2022-2023,Online Safety Concern,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2023-2024,Attendance < 90%,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2023-2024,Financial Hardship,dynamic
+9a3cec5e-3ffe-4a65-8561-00949c366800,2024-2025,Self-Harm Concern,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2020-2021,Housing Instability,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2020-2021,Peer Conflict,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2021-2022,Safeguarding Referral,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2022-2023,CAMHS Referral,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2022-2023,Housing Instability,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2022-2023,Young Carer Increased Duties,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2023-2024,Bereavement,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2024-2025,Bereavement,dynamic
+efa07c9b-2a3f-4671-804b-2f772c849ab4,2024-2025,Medical Appointment Burden,dynamic
+29e520fb-cc47-4916-8890-19befc5337be,2020-2021,Family Difficulty,dynamic
+29e520fb-cc47-4916-8890-19befc5337be,2020-2021,Domestic Abuse Exposure,dynamic
+29e520fb-cc47-4916-8890-19befc5337be,2022-2023,Social Worker Involved,dynamic
+29e520fb-cc47-4916-8890-19befc5337be,2022-2023,Attendance < 80%,dynamic
+29e520fb-cc47-4916-8890-19befc5337be,2022-2023,Young Carer Increased Duties,dynamic
+29e520fb-cc47-4916-8890-19befc5337be,2024-2025,Low Mood,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2020-2021,Housing Instability,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2021-2022,Police Involvement,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2021-2022,Parental Separation,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2022-2023,Bereavement,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2022-2023,CP Plan,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2023-2024,Bullying,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2023-2024,Online Safety Concern,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2024-2025,Low Mood,dynamic
+d5ba05f6-6b12-43f3-97f6-3aabb2c83765,2024-2025,Domestic Abuse Exposure,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,New Diagnosis,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,Self-Harm Concern,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,Substance Concern,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2020-2021,Medical Appointment Burden,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,Low Mood,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,Safeguarding Referral,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,CAMHS Referral,dynamic
+93d199eb-9ff4-4889-91d8-a707ff7c3356,2024-2025,Police Involvement,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2020-2021,Low Mood,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2020-2021,Bereavement,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2020-2021,Safeguarding Referral,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2020-2021,New Diagnosis,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2021-2022,Bereavement,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2021-2022,Housing Instability,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2021-2022,Self-Harm Concern,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2021-2022,Online Safety Concern,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2022-2023,Peer Conflict,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2023-2024,Recent Move/Transition,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2023-2024,Attendance < 80%,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2023-2024,Young Carer Increased Duties,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2024-2025,Police Involvement,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2024-2025,Recent Move/Transition,dynamic
+996d7e81-e984-490e-9d1f-6181f10e7738,2024-2025,Attendance < 80%,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2020-2021,CAMHS Referral,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2020-2021,New Diagnosis,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2020-2021,Police Involvement,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2020-2021,Recent Move/Transition,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2021-2022,New Diagnosis,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2021-2022,Recent Move/Transition,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2022-2023,Domestic Abuse Exposure,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2023-2024,Bereavement,dynamic
+34925bb9-e8fe-433e-b34b-5d8be686f146,2023-2024,Attendance < 80%,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2020-2021,Attendance < 80%,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2020-2021,Self-Harm Concern,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2020-2021,Domestic Abuse Exposure,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2021-2022,Domestic Abuse Exposure,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2021-2022,Young Carer Increased Duties,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2022-2023,Bereavement,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2022-2023,Bullying,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2022-2023,Police Involvement,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2023-2024,Bereavement,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2023-2024,Child in Need Plan,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2023-2024,Substance Concern,dynamic
+84257923-b319-4277-9374-d74cfcdeb477,2023-2024,Young Carer Increased Duties,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2020-2021,Bereavement,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2020-2021,Child in Need Plan,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2020-2021,Recent Move/Transition,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2020-2021,Substance Concern,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2021-2022,CAMHS Referral,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2023-2024,Attendance < 80%,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2024-2025,Bereavement,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2024-2025,Safeguarding Referral,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2024-2025,CAMHS Referral,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2024-2025,Family Difficulty,dynamic
+521bce69-290f-4367-906c-4f6f56af0f02,2024-2025,Domestic Abuse Exposure,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2020-2021,Substance Concern,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2021-2022,Bullying,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2021-2022,Social Worker Involved,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2021-2022,Safeguarding Referral,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2021-2022,Substance Concern,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2022-2023,Low Mood,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2023-2024,Exclusion,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2024-2025,Safeguarding Referral,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2024-2025,Child in Need Plan,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2024-2025,Peer Conflict,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2024-2025,Substance Concern,dynamic
+5bd66aaf-ad45-4f65-a309-d4cb01496d93,2024-2025,Medical Appointment Burden,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2020-2021,Low Mood,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2021-2022,Bullying,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2021-2022,Social Worker Involved,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2021-2022,Peer Conflict,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2022-2023,CAMHS Referral,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2022-2023,New Diagnosis,dynamic
+6f92f258-6eb1-4bbb-82c1-63b20db970a7,2024-2025,Bullying,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2020-2021,Low Mood,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2020-2021,Attendance < 80%,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2020-2021,Substance Concern,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2020-2021,Domestic Abuse Exposure,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2021-2022,Financial Hardship,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2022-2023,Safeguarding Referral,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2022-2023,Recent Move/Transition,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2024-2025,Bullying,dynamic
+cf47bf4f-e961-4332-87e6-71b3f045a214,2024-2025,Attendance < 80%,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2020-2021,CAMHS Referral,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2020-2021,Peer Conflict,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2021-2022,Low Mood,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2021-2022,Self-Harm Concern,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2023-2024,Bullying,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2023-2024,Family Difficulty,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2023-2024,Young Carer Increased Duties,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2024-2025,Safeguarding Referral,dynamic
+cd857b15-3bd1-48b9-bd9a-e29e02440100,2024-2025,Police Involvement,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2020-2021,Low Mood,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2020-2021,Safeguarding Referral,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2020-2021,Attendance < 80%,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2021-2022,Social Worker Involved,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2021-2022,CAMHS Referral,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2021-2022,New Diagnosis,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2023-2024,New Diagnosis,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2023-2024,Housing Instability,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2024-2025,Bereavement,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2024-2025,Exclusion,dynamic
+83ec235e-27d0-40b2-a3a0-29de0df2f9cb,2024-2025,Self-Harm Concern,dynamic
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2020-2021,Bereavement,dynamic
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2021-2022,CP Plan,dynamic
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2021-2022,Medical Appointment Burden,dynamic
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2022-2023,Exclusion,dynamic
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2024-2025,Attendance < 90%,dynamic
+4c0bdb49-934f-4369-a92d-8d023fc8b64c,2024-2025,Family Difficulty,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2020-2021,Safeguarding Referral,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2020-2021,Recent Move/Transition,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2021-2022,Bullying,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2022-2023,CP Plan,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2023-2024,Exclusion,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2023-2024,Medical Appointment Burden,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2024-2025,Bereavement,dynamic
+e3230b45-b2f2-4775-a8dc-a72a056a7021,2024-2025,Young Carer Increased Duties,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2021-2022,Social Worker Involved,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2022-2023,Safeguarding Referral,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2022-2023,Recent Move/Transition,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2022-2023,Parental Separation,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2022-2023,Medical Appointment Burden,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2023-2024,Housing Instability,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2023-2024,CP Plan,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2024-2025,Peer Conflict,dynamic
+78cc566f-7440-496a-9c4f-f6ac72c7f455,2024-2025,Financial Hardship,dynamic
+f6020ce7-568e-4f5d-abdc-50338dac574a,2021-2022,Police Involvement,dynamic
+f6020ce7-568e-4f5d-abdc-50338dac574a,2022-2023,Family Difficulty,dynamic
+f6020ce7-568e-4f5d-abdc-50338dac574a,2022-2023,Attendance < 80%,dynamic
+f6020ce7-568e-4f5d-abdc-50338dac574a,2022-2023,Young Carer Increased Duties,dynamic
+f6020ce7-568e-4f5d-abdc-50338dac574a,2023-2024,CAMHS Referral,dynamic
+f6020ce7-568e-4f5d-abdc-50338dac574a,2024-2025,Safeguarding Referral,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2021-2022,Low Mood,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2021-2022,Self-Harm Concern,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2022-2023,Police Involvement,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2022-2023,Substance Concern,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2023-2024,New Diagnosis,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2024-2025,Safeguarding Referral,dynamic
+ec1f6046-2425-416d-a7fc-8df97b95de0d,2024-2025,Family Difficulty,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2021-2022,Housing Instability,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2021-2022,Parental Separation,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,Bereavement,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,Social Worker Involved,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,New Diagnosis,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,CP Plan,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,Recent Move/Transition,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,Medical Appointment Burden,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2022-2023,Young Carer Increased Duties,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2023-2024,Low Mood,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2023-2024,Bereavement,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2023-2024,Financial Hardship,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2024-2025,Attendance < 90%,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2024-2025,Safeguarding Referral,dynamic
+d24ae3d3-10d6-4821-87fa-5b24ac2c9084,2024-2025,Exclusion,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2021-2022,CAMHS Referral,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2021-2022,Housing Instability,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2021-2022,Child in Need Plan,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2021-2022,Parental Separation,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Safeguarding Referral,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Family Difficulty,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Housing Instability,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,CP Plan,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Online Safety Concern,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2022-2023,Substance Concern,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2023-2024,Low Mood,dynamic
+9db4c1e5-1ecc-4b66-b1da-417ad7dfb15c,2023-2024,Exclusion,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2021-2022,Low Mood,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2021-2022,CAMHS Referral,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2021-2022,Attendance < 80%,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2022-2023,CP Plan,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2023-2024,Bereavement,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2023-2024,CP Plan,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2023-2024,Attendance < 80%,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2024-2025,CP Plan,dynamic
+67ee3988-3720-4bdb-83f0-8dc248349f24,2024-2025,Young Carer Increased Duties,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2021-2022,Safeguarding Referral,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2021-2022,Self-Harm Concern,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2021-2022,Peer Conflict,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2022-2023,Low Mood,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2022-2023,Safeguarding Referral,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2022-2023,CAMHS Referral,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2023-2024,Police Involvement,dynamic
+b0909786-c8bc-4bd1-8a2d-4aefdac2fa13,2024-2025,Financial Hardship,dynamic
+f6100086-913b-4d0e-9e39-592e5bf88749,2021-2022,CP Plan,dynamic
+f6100086-913b-4d0e-9e39-592e5bf88749,2022-2023,Recent Move/Transition,dynamic
+f6100086-913b-4d0e-9e39-592e5bf88749,2022-2023,Medical Appointment Burden,dynamic
+f6100086-913b-4d0e-9e39-592e5bf88749,2024-2025,Social Worker Involved,dynamic
+f6100086-913b-4d0e-9e39-592e5bf88749,2024-2025,Financial Hardship,dynamic
+ee20c4c4-75ee-417b-a3ed-8476ece5214c,2021-2022,Bullying,dynamic
+ee20c4c4-75ee-417b-a3ed-8476ece5214c,2022-2023,Low Mood,dynamic
+ee20c4c4-75ee-417b-a3ed-8476ece5214c,2022-2023,Bereavement,dynamic
+ee20c4c4-75ee-417b-a3ed-8476ece5214c,2022-2023,Substance Concern,dynamic
+ee20c4c4-75ee-417b-a3ed-8476ece5214c,2023-2024,Low Mood,dynamic
+ee20c4c4-75ee-417b-a3ed-8476ece5214c,2023-2024,Safeguarding Referral,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2021-2022,Safeguarding Referral,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2022-2023,New Diagnosis,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2022-2023,Family Difficulty,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2023-2024,Housing Instability,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2023-2024,CP Plan,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2024-2025,Bullying,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2024-2025,Safeguarding Referral,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2024-2025,Exclusion,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2024-2025,Substance Concern,dynamic
+9ec48c00-d310-4f85-b92b-a773675a9e9d,2024-2025,Parental Separation,dynamic
+52157191-7429-4a41-a49b-1101471da785,2021-2022,Safeguarding Referral,dynamic
+52157191-7429-4a41-a49b-1101471da785,2021-2022,CAMHS Referral,dynamic
+52157191-7429-4a41-a49b-1101471da785,2021-2022,Medical Appointment Burden,dynamic
+52157191-7429-4a41-a49b-1101471da785,2022-2023,Low Mood,dynamic
+52157191-7429-4a41-a49b-1101471da785,2022-2023,Safeguarding Referral,dynamic
+52157191-7429-4a41-a49b-1101471da785,2022-2023,Child in Need Plan,dynamic
+52157191-7429-4a41-a49b-1101471da785,2023-2024,Online Safety Concern,dynamic
+52157191-7429-4a41-a49b-1101471da785,2024-2025,Parental Separation,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2021-2022,Attendance < 90%,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2021-2022,Medical Appointment Burden,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2022-2023,Exclusion,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2022-2023,Self-Harm Concern,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2022-2023,Young Carer Increased Duties,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2023-2024,Bereavement,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2024-2025,Online Safety Concern,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2024-2025,Domestic Abuse Exposure,dynamic
+3fd95f96-814d-4af5-928a-a953faf71fc3,2024-2025,Young Carer Increased Duties,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2021-2022,Low Mood,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2021-2022,Exclusion,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2021-2022,New Diagnosis,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2021-2022,Young Carer Increased Duties,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2023-2024,Social Worker Involved,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2023-2024,Medical Appointment Burden,dynamic
+14ac5727-d0c0-4576-be13-15e37dca799e,2024-2025,Substance Concern,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2021-2022,Low Mood,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2021-2022,Parental Separation,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2023-2024,Parental Separation,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2023-2024,Financial Hardship,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2024-2025,Social Worker Involved,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2024-2025,Safeguarding Referral,dynamic
+ec19a40a-6c78-445f-883a-fcfe4a80b6f0,2024-2025,Medical Appointment Burden,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,Exclusion,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,Child in Need Plan,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,Self-Harm Concern,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2023-2024,Online Safety Concern,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2024-2025,Low Mood,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2024-2025,Recent Move/Transition,dynamic
+bef72d33-3724-48b9-a64b-cb1f36e353a4,2024-2025,Financial Hardship,dynamic
+7e5ac33b-6789-4290-88a8-f72247e16762,2021-2022,Social Worker Involved,dynamic
+7e5ac33b-6789-4290-88a8-f72247e16762,2022-2023,CP Plan,dynamic
+7e5ac33b-6789-4290-88a8-f72247e16762,2022-2023,Police Involvement,dynamic
+7e5ac33b-6789-4290-88a8-f72247e16762,2023-2024,Attendance < 90%,dynamic
+7e5ac33b-6789-4290-88a8-f72247e16762,2023-2024,Financial Hardship,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2021-2022,Bereavement,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2021-2022,CAMHS Referral,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2022-2023,Safeguarding Referral,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2023-2024,Social Worker Involved,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2023-2024,Parental Separation,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2023-2024,Domestic Abuse Exposure,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,Attendance < 80%,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,Self-Harm Concern,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,Peer Conflict,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,Parental Separation,dynamic
+ae419971-bc36-490f-9d81-300475aa8ed0,2024-2025,Medical Appointment Burden,dynamic
+e46ae8d3-4dd1-4756-a1f4-22e3a5fd4cd8,2021-2022,Exclusion,dynamic
+e46ae8d3-4dd1-4756-a1f4-22e3a5fd4cd8,2021-2022,CAMHS Referral,dynamic
+e46ae8d3-4dd1-4756-a1f4-22e3a5fd4cd8,2021-2022,Family Difficulty,dynamic
+e46ae8d3-4dd1-4756-a1f4-22e3a5fd4cd8,2021-2022,Medical Appointment Burden,dynamic
+e46ae8d3-4dd1-4756-a1f4-22e3a5fd4cd8,2023-2024,Young Carer Increased Duties,dynamic
+e46ae8d3-4dd1-4756-a1f4-22e3a5fd4cd8,2024-2025,Young Carer Increased Duties,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2022-2023,Police Involvement,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2022-2023,Self-Harm Concern,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2022-2023,Medical Appointment Burden,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2023-2024,Housing Instability,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2023-2024,Police Involvement,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2023-2024,Attendance < 80%,dynamic
+18fa0dd5-5ce5-4052-aef6-e8eb71641a27,2023-2024,Parental Separation,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2021-2022,Police Involvement,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2022-2023,Housing Instability,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2022-2023,Attendance < 80%,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2023-2024,Police Involvement,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2023-2024,Financial Hardship,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2024-2025,Online Safety Concern,dynamic
+5426a1ee-dafa-4e48-9929-e30bf8232333,2024-2025,Young Carer Increased Duties,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2021-2022,Attendance < 80%,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2022-2023,Bullying,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2022-2023,Social Worker Involved,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2022-2023,Attendance < 80%,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2023-2024,Recent Move/Transition,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2023-2024,Peer Conflict,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2024-2025,Parental Separation,dynamic
+da8ba648-e39c-42ff-9399-5d3153ce58a1,2024-2025,Domestic Abuse Exposure,dynamic
+b652ac57-058f-49e6-b41e-fa934e4befce,2021-2022,Exclusion,dynamic
+b652ac57-058f-49e6-b41e-fa934e4befce,2022-2023,Low Mood,dynamic
+b652ac57-058f-49e6-b41e-fa934e4befce,2024-2025,Low Mood,dynamic
+b652ac57-058f-49e6-b41e-fa934e4befce,2024-2025,Peer Conflict,dynamic
+b652ac57-058f-49e6-b41e-fa934e4befce,2024-2025,Young Carer Increased Duties,dynamic
+54b967e4-0c0a-448a-a751-6cd1de807916,2021-2022,Low Mood,dynamic
+54b967e4-0c0a-448a-a751-6cd1de807916,2022-2023,CAMHS Referral,dynamic
+54b967e4-0c0a-448a-a751-6cd1de807916,2023-2024,Bullying,dynamic
+54b967e4-0c0a-448a-a751-6cd1de807916,2023-2024,Social Worker Involved,dynamic
+54b967e4-0c0a-448a-a751-6cd1de807916,2023-2024,New Diagnosis,dynamic
+54b967e4-0c0a-448a-a751-6cd1de807916,2024-2025,Exclusion,dynamic
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2021-2022,Bullying,dynamic
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2021-2022,New Diagnosis,dynamic
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2021-2022,Medical Appointment Burden,dynamic
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2022-2023,Financial Hardship,dynamic
+daba6c3f-7726-4a59-ab61-d1bedf74a590,2024-2025,Recent Move/Transition,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2021-2022,Bullying,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2021-2022,Young Carer Increased Duties,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2022-2023,Police Involvement,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2022-2023,Substance Concern,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2023-2024,Financial Hardship,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2024-2025,Safeguarding Referral,dynamic
+471c3a81-405c-4136-8915-c4295fee9c98,2024-2025,CP Plan,dynamic
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2021-2022,Exclusion,dynamic
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2022-2023,CP Plan,dynamic
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2022-2023,Young Carer Increased Duties,dynamic
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2023-2024,Exclusion,dynamic
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2024-2025,Low Mood,dynamic
+6e067cce-f1bf-4385-9ad6-076662ee6f5b,2024-2025,Young Carer Increased Duties,dynamic
+59d908df-a651-43bb-bcae-898eef004728,2021-2022,Safeguarding Referral,dynamic
+59d908df-a651-43bb-bcae-898eef004728,2021-2022,New Diagnosis,dynamic
+59d908df-a651-43bb-bcae-898eef004728,2022-2023,Family Difficulty,dynamic
+59d908df-a651-43bb-bcae-898eef004728,2022-2023,Financial Hardship,dynamic
+23919cad-7526-4273-a672-d1533dd229f6,2022-2023,Exclusion,dynamic
+23919cad-7526-4273-a672-d1533dd229f6,2022-2023,Family Difficulty,dynamic
+23919cad-7526-4273-a672-d1533dd229f6,2022-2023,Child in Need Plan,dynamic
+23919cad-7526-4273-a672-d1533dd229f6,2024-2025,CAMHS Referral,dynamic
+23919cad-7526-4273-a672-d1533dd229f6,2024-2025,Domestic Abuse Exposure,dynamic
+0ca9da23-ab43-4841-9688-cccf1fd73445,2021-2022,Low Mood,dynamic
+0ca9da23-ab43-4841-9688-cccf1fd73445,2021-2022,Parental Separation,dynamic
+0ca9da23-ab43-4841-9688-cccf1fd73445,2024-2025,Social Worker Involved,dynamic
+0ca9da23-ab43-4841-9688-cccf1fd73445,2024-2025,Recent Move/Transition,dynamic
+0ca9da23-ab43-4841-9688-cccf1fd73445,2024-2025,Self-Harm Concern,dynamic
+0ca9da23-ab43-4841-9688-cccf1fd73445,2024-2025,Online Safety Concern,dynamic
+9bca1601-707f-4a4e-b48c-b634c8dd3991,2021-2022,Recent Move/Transition,dynamic
+9bca1601-707f-4a4e-b48c-b634c8dd3991,2021-2022,Peer Conflict,dynamic
+9bca1601-707f-4a4e-b48c-b634c8dd3991,2023-2024,Young Carer Increased Duties,dynamic
+9bca1601-707f-4a4e-b48c-b634c8dd3991,2024-2025,CAMHS Referral,dynamic
+27a987e3-af22-4ec6-a8f6-224e27820252,2021-2022,Substance Concern,dynamic
+27a987e3-af22-4ec6-a8f6-224e27820252,2023-2024,CAMHS Referral,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2021-2022,Safeguarding Referral,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2021-2022,Family Difficulty,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2022-2023,Attendance < 80%,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2022-2023,Substance Concern,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2023-2024,Bullying,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2023-2024,Peer Conflict,dynamic
+f99d6e0a-5c99-4c79-add2-11b2de834b02,2024-2025,Parental Separation,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2021-2022,Self-Harm Concern,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2022-2023,Low Mood,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2022-2023,CAMHS Referral,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2022-2023,Medical Appointment Burden,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2022-2023,Young Carer Increased Duties,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2023-2024,Exclusion,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2023-2024,Recent Move/Transition,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2024-2025,CAMHS Referral,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2024-2025,New Diagnosis,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2024-2025,Child in Need Plan,dynamic
+ce3150df-e4bd-4479-9759-0fd315e4d1d6,2024-2025,Police Involvement,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2021-2022,Social Worker Involved,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2021-2022,Parental Separation,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2021-2022,Financial Hardship,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2022-2023,Safeguarding Referral,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2022-2023,CAMHS Referral,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2022-2023,Self-Harm Concern,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2023-2024,Attendance < 90%,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2023-2024,Financial Hardship,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2024-2025,Social Worker Involved,dynamic
+d03e82db-2717-42e5-b43f-a7c98472224e,2024-2025,Police Involvement,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2021-2022,Exclusion,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2021-2022,Family Difficulty,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2022-2023,Safeguarding Referral,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2022-2023,Financial Hardship,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2023-2024,Exclusion,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2024-2025,Social Worker Involved,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2024-2025,Family Difficulty,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2024-2025,Housing Instability,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2024-2025,Substance Concern,dynamic
+ec7b128b-aa31-46dc-bf86-a4ea08359784,2024-2025,Medical Appointment Burden,dynamic
+96af5f39-3bac-4684-b138-eed2374c324c,2022-2023,Low Mood,dynamic
+96af5f39-3bac-4684-b138-eed2374c324c,2022-2023,Police Involvement,dynamic
+96af5f39-3bac-4684-b138-eed2374c324c,2023-2024,Parental Separation,dynamic
+96af5f39-3bac-4684-b138-eed2374c324c,2024-2025,Low Mood,dynamic
+96af5f39-3bac-4684-b138-eed2374c324c,2024-2025,Medical Appointment Burden,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2021-2022,Bullying,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2021-2022,New Diagnosis,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2021-2022,Family Difficulty,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2022-2023,Exclusion,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2022-2023,Housing Instability,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2024-2025,Self-Harm Concern,dynamic
+5b5cb4ce-4ddc-465b-a3bb-d8639753d08b,2024-2025,Financial Hardship,dynamic
+86911c02-9af6-4965-9056-fef86880ffb6,2021-2022,Attendance < 80%,dynamic
+86911c02-9af6-4965-9056-fef86880ffb6,2021-2022,Young Carer Increased Duties,dynamic
+86911c02-9af6-4965-9056-fef86880ffb6,2022-2023,Young Carer Increased Duties,dynamic
+86911c02-9af6-4965-9056-fef86880ffb6,2024-2025,Child in Need Plan,dynamic
+ac257f39-8eeb-4d36-a33a-db7e139eabf3,2022-2023,Domestic Abuse Exposure,dynamic
+ac257f39-8eeb-4d36-a33a-db7e139eabf3,2024-2025,Bullying,dynamic
+ac257f39-8eeb-4d36-a33a-db7e139eabf3,2024-2025,New Diagnosis,dynamic
+ac257f39-8eeb-4d36-a33a-db7e139eabf3,2024-2025,Attendance < 80%,dynamic
+ac257f39-8eeb-4d36-a33a-db7e139eabf3,2024-2025,Domestic Abuse Exposure,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2021-2022,Police Involvement,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2022-2023,Safeguarding Referral,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2022-2023,Housing Instability,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2022-2023,Online Safety Concern,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2023-2024,Self-Harm Concern,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2024-2025,Attendance < 90%,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2024-2025,Low Mood,dynamic
+4263066a-410a-431a-9280-94dade4f93b9,2024-2025,Parental Separation,dynamic
+36b3f28f-7029-4a5e-a7d1-dd948f3b856d,2021-2022,Child in Need Plan,dynamic
+36b3f28f-7029-4a5e-a7d1-dd948f3b856d,2022-2023,Social Worker Involved,dynamic
+36b3f28f-7029-4a5e-a7d1-dd948f3b856d,2024-2025,Recent Move/Transition,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2021-2022,Family Difficulty,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2022-2023,Exclusion,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2022-2023,Housing Instability,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2022-2023,Young Carer Increased Duties,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2023-2024,Exclusion,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2024-2025,Recent Move/Transition,dynamic
+fb52702a-fd01-4528-ab93-ad6fd8f063b3,2024-2025,Online Safety Concern,dynamic
+e4f2e47c-aa73-45f8-9f65-71df872c93a5,2021-2022,Parental Separation,dynamic
+e4f2e47c-aa73-45f8-9f65-71df872c93a5,2022-2023,Low Mood,dynamic
+e4f2e47c-aa73-45f8-9f65-71df872c93a5,2022-2023,Exclusion,dynamic
+e4f2e47c-aa73-45f8-9f65-71df872c93a5,2023-2024,Bullying,dynamic
+e4f2e47c-aa73-45f8-9f65-71df872c93a5,2023-2024,New Diagnosis,dynamic
+e4f2e47c-aa73-45f8-9f65-71df872c93a5,2023-2024,Recent Move/Transition,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2021-2022,Domestic Abuse Exposure,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2022-2023,Low Mood,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2022-2023,Police Involvement,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2022-2023,Attendance < 80%,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2023-2024,Safeguarding Referral,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2023-2024,CAMHS Referral,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2023-2024,Housing Instability,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2023-2024,Self-Harm Concern,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2023-2024,Parental Separation,dynamic
+4e6fe278-1258-49bf-aea7-95e579005cd5,2024-2025,Young Carer Increased Duties,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2021-2022,Child in Need Plan,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2021-2022,Police Involvement,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2021-2022,Attendance < 80%,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2022-2023,Bereavement,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2022-2023,CAMHS Referral,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2023-2024,Bullying,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2023-2024,CAMHS Referral,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2023-2024,Housing Instability,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2024-2025,Exclusion,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2024-2025,Housing Instability,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2024-2025,CP Plan,dynamic
+5c6d321e-09ed-4746-b0f4-034c77e8b78d,2024-2025,Recent Move/Transition,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2022-2023,CAMHS Referral,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2022-2023,Medical Appointment Burden,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2023-2024,Social Worker Involved,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2024-2025,Bereavement,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2024-2025,Safeguarding Referral,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2024-2025,Housing Instability,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2024-2025,Peer Conflict,dynamic
+447692da-7985-486f-9e7a-58c11b8fb41d,2024-2025,Young Carer Increased Duties,dynamic
+db8fe274-bbb5-4b39-9e3f-63e646c98774,2022-2023,New Diagnosis,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2022-2023,Housing Instability,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2022-2023,Recent Move/Transition,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2022-2023,Domestic Abuse Exposure,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2023-2024,Safeguarding Referral,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2023-2024,CAMHS Referral,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2023-2024,New Diagnosis,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2024-2025,Safeguarding Referral,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2024-2025,New Diagnosis,dynamic
+6111d10e-cacd-4c97-8acf-4ea5ae9ecda0,2024-2025,Recent Move/Transition,dynamic
+710b7b97-7881-437f-bac1-0edecc543b6f,2022-2023,Exclusion,dynamic
+710b7b97-7881-437f-bac1-0edecc543b6f,2023-2024,Bereavement,dynamic
+710b7b97-7881-437f-bac1-0edecc543b6f,2023-2024,Medical Appointment Burden,dynamic
+710b7b97-7881-437f-bac1-0edecc543b6f,2024-2025,Bullying,dynamic
+6fcbce22-9ca6-42e3-a2d3-2a7bd8dcdec7,2022-2023,Parental Separation,dynamic
+6fcbce22-9ca6-42e3-a2d3-2a7bd8dcdec7,2023-2024,Low Mood,dynamic
+6fcbce22-9ca6-42e3-a2d3-2a7bd8dcdec7,2023-2024,Domestic Abuse Exposure,dynamic
+c81a2b2a-1901-4d26-8525-53442e64c85c,2022-2023,Social Worker Involved,dynamic
+c81a2b2a-1901-4d26-8525-53442e64c85c,2022-2023,Police Involvement,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2022-2023,Bereavement,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2022-2023,Attendance < 80%,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2023-2024,Medical Appointment Burden,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2024-2025,Low Mood,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2024-2025,Safeguarding Referral,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2024-2025,Family Difficulty,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2024-2025,Housing Instability,dynamic
+8c5e9fe7-0bf4-4f0d-83da-f187594054b9,2024-2025,Financial Hardship,dynamic
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2022-2023,New Diagnosis,dynamic
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2023-2024,Low Mood,dynamic
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2023-2024,CAMHS Referral,dynamic
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2023-2024,Online Safety Concern,dynamic
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2024-2025,Bereavement,dynamic
+25c64cad-fc91-4a5c-ab61-cb73a8bc283a,2024-2025,Medical Appointment Burden,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2022-2023,Bereavement,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2022-2023,Attendance < 80%,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2022-2023,Online Safety Concern,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2023-2024,Low Mood,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2024-2025,Low Mood,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2024-2025,Safeguarding Referral,dynamic
+1289904d-4d67-42b4-bd4f-46bdb1af4e1f,2024-2025,Peer Conflict,dynamic
+79433995-594e-42eb-8367-f9e782a628ad,2022-2023,CAMHS Referral,dynamic
+79433995-594e-42eb-8367-f9e782a628ad,2022-2023,New Diagnosis,dynamic
+79433995-594e-42eb-8367-f9e782a628ad,2024-2025,Attendance < 90%,dynamic
+994ff200-899d-44b9-8fd4-1339ef227ffc,2022-2023,Safeguarding Referral,dynamic
+994ff200-899d-44b9-8fd4-1339ef227ffc,2022-2023,Attendance < 80%,dynamic
+994ff200-899d-44b9-8fd4-1339ef227ffc,2024-2025,Safeguarding Referral,dynamic
+994ff200-899d-44b9-8fd4-1339ef227ffc,2024-2025,Online Safety Concern,dynamic
+48b9005e-04b0-4706-88e9-f13256b3438a,2022-2023,Self-Harm Concern,dynamic
+48b9005e-04b0-4706-88e9-f13256b3438a,2024-2025,Peer Conflict,dynamic
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2022-2023,Attendance < 90%,dynamic
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2022-2023,Young Carer Increased Duties,dynamic
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2023-2024,Bullying,dynamic
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2023-2024,Parental Separation,dynamic
+ae478ddd-bdf7-4c36-bd77-d2ea43c36e59,2024-2025,Financial Hardship,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2022-2023,Attendance < 80%,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2022-2023,Medical Appointment Burden,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2023-2024,Peer Conflict,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2024-2025,Attendance < 90%,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2024-2025,Housing Instability,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2024-2025,Domestic Abuse Exposure,dynamic
+8b9f5bb1-a9c1-4cb5-aa59-7fe7401bab6e,2024-2025,Financial Hardship,dynamic
+99006de0-36b2-4332-942b-0dbeae059d8b,2023-2024,New Diagnosis,dynamic
+99006de0-36b2-4332-942b-0dbeae059d8b,2023-2024,Peer Conflict,dynamic
+99006de0-36b2-4332-942b-0dbeae059d8b,2024-2025,Bullying,dynamic
+99006de0-36b2-4332-942b-0dbeae059d8b,2024-2025,Parental Separation,dynamic
+99006de0-36b2-4332-942b-0dbeae059d8b,2024-2025,Financial Hardship,dynamic
+ef759656-ebbe-4f75-8934-dfc4a7931477,2022-2023,Family Difficulty,dynamic
+ef759656-ebbe-4f75-8934-dfc4a7931477,2023-2024,Bereavement,dynamic
+ef759656-ebbe-4f75-8934-dfc4a7931477,2023-2024,Police Involvement,dynamic
+ef759656-ebbe-4f75-8934-dfc4a7931477,2023-2024,Recent Move/Transition,dynamic
+ef759656-ebbe-4f75-8934-dfc4a7931477,2024-2025,Housing Instability,dynamic
+ef759656-ebbe-4f75-8934-dfc4a7931477,2024-2025,CP Plan,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2022-2023,Safeguarding Referral,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2022-2023,CAMHS Referral,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2022-2023,Recent Move/Transition,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2022-2023,Parental Separation,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2023-2024,Safeguarding Referral,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2023-2024,Peer Conflict,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2024-2025,Family Difficulty,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2024-2025,Attendance < 80%,dynamic
+fc949718-c36a-47a1-b416-b02eba37a035,2024-2025,Young Carer Increased Duties,dynamic
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2022-2023,Financial Hardship,dynamic
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2023-2024,Child in Need Plan,dynamic
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2023-2024,Attendance < 80%,dynamic
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2024-2025,Low Mood,dynamic
+2eb2be9c-19fd-4413-b3e5-04107ace4b6c,2024-2025,Safeguarding Referral,dynamic
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2022-2023,Self-Harm Concern,dynamic
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2023-2024,Attendance < 90%,dynamic
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2023-2024,Low Mood,dynamic
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2023-2024,Exclusion,dynamic
+778ea087-c8b5-402d-8ac3-0b81b3ed455b,2024-2025,Peer Conflict,dynamic
+6e300365-1af4-495a-945e-adf430a52523,2022-2023,Bullying,dynamic
+6e300365-1af4-495a-945e-adf430a52523,2022-2023,Peer Conflict,dynamic
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2022-2023,Low Mood,dynamic
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2022-2023,Bereavement,dynamic
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2022-2023,Parental Separation,dynamic
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2022-2023,Young Carer Increased Duties,dynamic
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2023-2024,CP Plan,dynamic
+a1e01234-af95-456b-bbab-d5ef50f4fc6f,2024-2025,Child in Need Plan,dynamic
+48e8d01c-6dc3-4bd7-9c3f-ecb84f85e0bb,2022-2023,Self-Harm Concern,dynamic
+48e8d01c-6dc3-4bd7-9c3f-ecb84f85e0bb,2023-2024,Family Difficulty,dynamic
+48e8d01c-6dc3-4bd7-9c3f-ecb84f85e0bb,2023-2024,Housing Instability,dynamic
+48e8d01c-6dc3-4bd7-9c3f-ecb84f85e0bb,2023-2024,CP Plan,dynamic
+48e8d01c-6dc3-4bd7-9c3f-ecb84f85e0bb,2023-2024,Young Carer Increased Duties,dynamic
+48e8d01c-6dc3-4bd7-9c3f-ecb84f85e0bb,2024-2025,Police Involvement,dynamic
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2022-2023,Police Involvement,dynamic
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2022-2023,Parental Separation,dynamic
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2024-2025,Social Worker Involved,dynamic
+9b90b729-91fb-4cbb-8b20-2c7644905e43,2024-2025,Peer Conflict,dynamic
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2022-2023,Child in Need Plan,dynamic
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2022-2023,Self-Harm Concern,dynamic
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2023-2024,Police Involvement,dynamic
+3cb7557e-feb5-4cb2-bbfe-0f8ca19c8d5b,2024-2025,CAMHS Referral,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2022-2023,Exclusion,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2022-2023,CAMHS Referral,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2023-2024,New Diagnosis,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2023-2024,CP Plan,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2024-2025,CAMHS Referral,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2024-2025,Peer Conflict,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2024-2025,Online Safety Concern,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2024-2025,Financial Hardship,dynamic
+819e1ec3-a41a-435d-ae83-459403c238e9,2024-2025,Medical Appointment Burden,dynamic
+64a41e36-d282-424f-9e8e-265531f7eee6,2022-2023,Attendance < 90%,dynamic
+64a41e36-d282-424f-9e8e-265531f7eee6,2023-2024,Bullying,dynamic
+64a41e36-d282-424f-9e8e-265531f7eee6,2023-2024,CAMHS Referral,dynamic
+17b41811-786b-4823-86fb-d71b31763e9b,2023-2024,Safeguarding Referral,dynamic
+17b41811-786b-4823-86fb-d71b31763e9b,2023-2024,New Diagnosis,dynamic
+17b41811-786b-4823-86fb-d71b31763e9b,2023-2024,Substance Concern,dynamic
+17b41811-786b-4823-86fb-d71b31763e9b,2024-2025,Low Mood,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2023-2024,Low Mood,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2023-2024,Bereavement,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2023-2024,CAMHS Referral,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2023-2024,Police Involvement,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2023-2024,Recent Move/Transition,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2024-2025,Attendance < 90%,dynamic
+0edf8d9c-0172-4f0b-bd65-9b6d0e4c2daa,2024-2025,Police Involvement,dynamic
+e24621b1-9754-423d-9d77-8565c9599d53,2023-2024,Attendance < 90%,dynamic
+e24621b1-9754-423d-9d77-8565c9599d53,2023-2024,Low Mood,dynamic
+e24621b1-9754-423d-9d77-8565c9599d53,2023-2024,Safeguarding Referral,dynamic
+e24621b1-9754-423d-9d77-8565c9599d53,2023-2024,CAMHS Referral,dynamic
+e24621b1-9754-423d-9d77-8565c9599d53,2023-2024,Family Difficulty,dynamic
+e24621b1-9754-423d-9d77-8565c9599d53,2024-2025,Social Worker Involved,dynamic
+6952158d-cde6-4bea-9ba2-71e99a932531,2022-2023,Attendance < 90%,dynamic
+6952158d-cde6-4bea-9ba2-71e99a932531,2022-2023,Attendance < 80%,dynamic
+6952158d-cde6-4bea-9ba2-71e99a932531,2023-2024,CP Plan,dynamic
+6952158d-cde6-4bea-9ba2-71e99a932531,2024-2025,Online Safety Concern,dynamic
+6952158d-cde6-4bea-9ba2-71e99a932531,2024-2025,Medical Appointment Burden,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2022-2023,Low Mood,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2022-2023,Safeguarding Referral,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2022-2023,Domestic Abuse Exposure,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2022-2023,Financial Hardship,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2023-2024,Bullying,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2023-2024,Recent Move/Transition,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2024-2025,Bullying,dynamic
+9b6d2b9c-ddce-4e3e-a808-2d16ba76a2ef,2024-2025,Safeguarding Referral,dynamic
+c3685a61-1611-4600-82d1-adad32ed50b3,2023-2024,Bullying,dynamic
+c3685a61-1611-4600-82d1-adad32ed50b3,2023-2024,CAMHS Referral,dynamic
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2022-2023,New Diagnosis,dynamic
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2022-2023,Police Involvement,dynamic
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2022-2023,Young Carer Increased Duties,dynamic
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2023-2024,Low Mood,dynamic
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2023-2024,Social Worker Involved,dynamic
+17eeb27e-41fe-4b6e-9b33-6772c1fb7b61,2024-2025,Safeguarding Referral,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2022-2023,CAMHS Referral,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2022-2023,Housing Instability,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2022-2023,Child in Need Plan,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2023-2024,Recent Move/Transition,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2023-2024,Online Safety Concern,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2024-2025,Safeguarding Referral,dynamic
+b6b48d51-e44a-4aab-ba1e-559c6ccee8ee,2024-2025,Financial Hardship,dynamic
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2022-2023,Safeguarding Referral,dynamic
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2023-2024,Exclusion,dynamic
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2023-2024,Family Difficulty,dynamic
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2023-2024,Peer Conflict,dynamic
+6bc426fd-4cff-4f1f-999b-11375e9698a4,2023-2024,Medical Appointment Burden,dynamic
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2022-2023,CP Plan,dynamic
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2023-2024,CP Plan,dynamic
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2024-2025,Safeguarding Referral,dynamic
+9aeeaba5-1642-4f49-a716-5a29b7b64389,2024-2025,Young Carer Increased Duties,dynamic
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,Low Mood,dynamic
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,Child in Need Plan,dynamic
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2023-2024,Financial Hardship,dynamic
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2024-2025,Police Involvement,dynamic
+cb8b4bb6-5ab6-4e3b-9270-8c4953eae8c7,2024-2025,Attendance < 80%,dynamic
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2022-2023,Exclusion,dynamic
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2022-2023,CP Plan,dynamic
+3b6bf0c7-3edd-4763-bafa-f310041adb90,2024-2025,CAMHS Referral,dynamic
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2022-2023,Attendance < 80%,dynamic
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2022-2023,Medical Appointment Burden,dynamic
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2024-2025,CAMHS Referral,dynamic
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2024-2025,Self-Harm Concern,dynamic
+b334f4d7-c68f-4796-8786-ed8e1462dba7,2024-2025,Financial Hardship,dynamic
+8dce8933-91be-4e98-af3c-361107e1b287,2023-2024,Domestic Abuse Exposure,dynamic
+8dce8933-91be-4e98-af3c-361107e1b287,2023-2024,Medical Appointment Burden,dynamic
+8dce8933-91be-4e98-af3c-361107e1b287,2024-2025,Recent Move/Transition,dynamic
+659da457-c320-4715-9e05-b48ffe976959,2022-2023,New Diagnosis,dynamic
+659da457-c320-4715-9e05-b48ffe976959,2022-2023,Financial Hardship,dynamic
+659da457-c320-4715-9e05-b48ffe976959,2024-2025,Housing Instability,dynamic
+659da457-c320-4715-9e05-b48ffe976959,2024-2025,Medical Appointment Burden,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2022-2023,New Diagnosis,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2023-2024,Safeguarding Referral,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2023-2024,Exclusion,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2023-2024,Attendance < 80%,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2023-2024,Domestic Abuse Exposure,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2024-2025,Bullying,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2024-2025,Safeguarding Referral,dynamic
+3a015333-ecc0-4f7e-8b3e-eb038e1eb260,2024-2025,Recent Move/Transition,dynamic
+4b055117-55b0-4c51-ac5d-c43be5380c5b,2022-2023,Exclusion,dynamic
+4b055117-55b0-4c51-ac5d-c43be5380c5b,2022-2023,Peer Conflict,dynamic
+4b055117-55b0-4c51-ac5d-c43be5380c5b,2022-2023,Online Safety Concern,dynamic
+4b055117-55b0-4c51-ac5d-c43be5380c5b,2023-2024,Bereavement,dynamic
+4b055117-55b0-4c51-ac5d-c43be5380c5b,2024-2025,Child in Need Plan,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2022-2023,Police Involvement,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2022-2023,Young Carer Increased Duties,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2023-2024,Social Worker Involved,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2023-2024,Recent Move/Transition,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Safeguarding Referral,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Child in Need Plan,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Self-Harm Concern,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Substance Concern,dynamic
+f61f2ba8-c7b2-46fa-b62b-3b6b2899a250,2024-2025,Financial Hardship,dynamic
+a909a499-14d9-4a1b-b1ce-0d877ff2b174,2022-2023,Housing Instability,dynamic
+a909a499-14d9-4a1b-b1ce-0d877ff2b174,2023-2024,Housing Instability,dynamic
+a909a499-14d9-4a1b-b1ce-0d877ff2b174,2024-2025,Self-Harm Concern,dynamic
+a909a499-14d9-4a1b-b1ce-0d877ff2b174,2024-2025,Online Safety Concern,dynamic
+a909a499-14d9-4a1b-b1ce-0d877ff2b174,2024-2025,Substance Concern,dynamic
+b10f4c17-9904-41b3-a7ba-8d6f84a5d69c,2024-2025,Attendance < 90%,dynamic
+b10f4c17-9904-41b3-a7ba-8d6f84a5d69c,2024-2025,New Diagnosis,dynamic
+f704ed26-90c7-4fde-abf4-adf551d96a0e,2023-2024,Safeguarding Referral,dynamic
+f704ed26-90c7-4fde-abf4-adf551d96a0e,2023-2024,Online Safety Concern,dynamic
+b44c7757-942e-4930-8f5b-abcc11107a3e,2023-2024,Attendance < 90%,dynamic
+b44c7757-942e-4930-8f5b-abcc11107a3e,2023-2024,Exclusion,dynamic
+b44c7757-942e-4930-8f5b-abcc11107a3e,2023-2024,Online Safety Concern,dynamic
+b44c7757-942e-4930-8f5b-abcc11107a3e,2023-2024,Substance Concern,dynamic
+b44c7757-942e-4930-8f5b-abcc11107a3e,2024-2025,Online Safety Concern,dynamic
+db59d03a-1122-4032-b654-2bdde47f1154,2023-2024,Safeguarding Referral,dynamic
+db59d03a-1122-4032-b654-2bdde47f1154,2023-2024,Family Difficulty,dynamic
+db59d03a-1122-4032-b654-2bdde47f1154,2024-2025,Low Mood,dynamic
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2023-2024,Social Worker Involved,dynamic
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2023-2024,Online Safety Concern,dynamic
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2023-2024,Substance Concern,dynamic
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2024-2025,CAMHS Referral,dynamic
+390425aa-bde0-4b8b-b794-9ea5bcfeb62d,2024-2025,Substance Concern,dynamic
+a11e7f09-5b75-465a-9b4f-48969c9fb7e9,2024-2025,Housing Instability,dynamic
+a11e7f09-5b75-465a-9b4f-48969c9fb7e9,2024-2025,Peer Conflict,dynamic
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2023-2024,Attendance < 90%,dynamic
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2023-2024,Low Mood,dynamic
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2023-2024,CAMHS Referral,dynamic
+10ccaacb-f8c7-4cca-bb51-5f0f748af3cb,2024-2025,Attendance < 90%,dynamic
+fcfc9bd7-f4b3-4b7a-9b15-3937c2a84a99,2023-2024,Peer Conflict,dynamic
+fcfc9bd7-f4b3-4b7a-9b15-3937c2a84a99,2024-2025,Recent Move/Transition,dynamic
+fcfc9bd7-f4b3-4b7a-9b15-3937c2a84a99,2024-2025,Online Safety Concern,dynamic
+fcfc9bd7-f4b3-4b7a-9b15-3937c2a84a99,2024-2025,Young Carer Increased Duties,dynamic
+1997fd62-5434-4a98-a842-b2c611676540,2023-2024,Low Mood,dynamic
+3e51c354-4c85-4049-b0e0-098e3e61d3c2,2023-2024,Attendance < 90%,dynamic
+3e51c354-4c85-4049-b0e0-098e3e61d3c2,2024-2025,Low Mood,dynamic
+3e51c354-4c85-4049-b0e0-098e3e61d3c2,2024-2025,Safeguarding Referral,dynamic
+3e51c354-4c85-4049-b0e0-098e3e61d3c2,2024-2025,CAMHS Referral,dynamic
+3e51c354-4c85-4049-b0e0-098e3e61d3c2,2024-2025,Family Difficulty,dynamic
+de6cc2d2-dafe-49b9-9e03-c2ecbc74c2e4,2023-2024,Child in Need Plan,dynamic
+de6cc2d2-dafe-49b9-9e03-c2ecbc74c2e4,2023-2024,Peer Conflict,dynamic
+de6cc2d2-dafe-49b9-9e03-c2ecbc74c2e4,2024-2025,Low Mood,dynamic
+de6cc2d2-dafe-49b9-9e03-c2ecbc74c2e4,2024-2025,CAMHS Referral,dynamic
+de6cc2d2-dafe-49b9-9e03-c2ecbc74c2e4,2024-2025,Housing Instability,dynamic
+4724991c-2e3e-4f2f-81ee-859259aff8f5,2024-2025,CAMHS Referral,dynamic
+4724991c-2e3e-4f2f-81ee-859259aff8f5,2024-2025,Recent Move/Transition,dynamic
+4724991c-2e3e-4f2f-81ee-859259aff8f5,2024-2025,Attendance < 80%,dynamic
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2023-2024,CAMHS Referral,dynamic
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,Housing Instability,dynamic
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,Substance Concern,dynamic
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,Domestic Abuse Exposure,dynamic
+abb2e997-6f55-4482-9f86-66c4a179f5f3,2024-2025,Medical Appointment Burden,dynamic
+d9d6d6fc-457a-43c2-8ce5-f94ca4d05f1c,2023-2024,Low Mood,dynamic
+d9d6d6fc-457a-43c2-8ce5-f94ca4d05f1c,2023-2024,Safeguarding Referral,dynamic
+d9d6d6fc-457a-43c2-8ce5-f94ca4d05f1c,2023-2024,Parental Separation,dynamic
+d9d6d6fc-457a-43c2-8ce5-f94ca4d05f1c,2024-2025,Financial Hardship,dynamic
+bf89e1de-d842-4af7-8a72-87f9db622a6d,2023-2024,CP Plan,dynamic
+bf89e1de-d842-4af7-8a72-87f9db622a6d,2024-2025,Social Worker Involved,dynamic
+bf89e1de-d842-4af7-8a72-87f9db622a6d,2024-2025,Police Involvement,dynamic
+bf89e1de-d842-4af7-8a72-87f9db622a6d,2024-2025,Young Carer Increased Duties,dynamic
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2023-2024,Substance Concern,dynamic
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2024-2025,Peer Conflict,dynamic
+1bf56a6d-44c6-4751-81fe-c059db5837c8,2024-2025,Substance Concern,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2023-2024,New Diagnosis,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2023-2024,CP Plan,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2023-2024,Young Carer Increased Duties,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2024-2025,Housing Instability,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2024-2025,Child in Need Plan,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2024-2025,Recent Move/Transition,dynamic
+a054d268-18cb-43de-809f-69aec257a067,2024-2025,Financial Hardship,dynamic
+99b06eb6-a2e5-4804-afef-a417acc8c896,2023-2024,Bullying,dynamic
+99b06eb6-a2e5-4804-afef-a417acc8c896,2023-2024,Housing Instability,dynamic
+99b06eb6-a2e5-4804-afef-a417acc8c896,2024-2025,Low Mood,dynamic
+24f4fb85-9d14-457d-8ac5-dcbaeabe436d,2023-2024,Low Mood,dynamic
+24f4fb85-9d14-457d-8ac5-dcbaeabe436d,2023-2024,Social Worker Involved,dynamic
+24f4fb85-9d14-457d-8ac5-dcbaeabe436d,2023-2024,Medical Appointment Burden,dynamic
+24f4fb85-9d14-457d-8ac5-dcbaeabe436d,2024-2025,CP Plan,dynamic
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2023-2024,Low Mood,dynamic
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2023-2024,New Diagnosis,dynamic
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2023-2024,Online Safety Concern,dynamic
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2023-2024,Financial Hardship,dynamic
+e0753cc6-f1bf-49ed-9042-a9ba52f583e4,2024-2025,Housing Instability,dynamic
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2023-2024,New Diagnosis,dynamic
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,Safeguarding Referral,dynamic
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,CAMHS Referral,dynamic
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,Self-Harm Concern,dynamic
+c044a09a-bab9-4b3a-9c8f-56fad20a7608,2024-2025,Young Carer Increased Duties,dynamic
+f7f57769-db69-493f-be09-1af4091b7df7,2023-2024,CAMHS Referral,dynamic
+f7f57769-db69-493f-be09-1af4091b7df7,2023-2024,Domestic Abuse Exposure,dynamic
+2fad8742-c959-4aae-a000-e36de8c3122e,2023-2024,Medical Appointment Burden,dynamic
+48ddfb5c-118d-42ba-b469-5e40967ff504,2024-2025,Exclusion,dynamic
+fd800397-c64b-4f9e-9653-542e2f591c9c,2023-2024,Exclusion,dynamic
+fd800397-c64b-4f9e-9653-542e2f591c9c,2023-2024,Self-Harm Concern,dynamic
+fd800397-c64b-4f9e-9653-542e2f591c9c,2023-2024,Medical Appointment Burden,dynamic
+2fc51dd6-5c62-49bc-b88c-b9eb1f13e9c7,2023-2024,Young Carer Increased Duties,dynamic
+2fc51dd6-5c62-49bc-b88c-b9eb1f13e9c7,2024-2025,Safeguarding Referral,dynamic
+2fc51dd6-5c62-49bc-b88c-b9eb1f13e9c7,2024-2025,Housing Instability,dynamic
+53f1e6a1-4912-4efa-af69-1baf7ba277fb,2023-2024,Housing Instability,dynamic
+53f1e6a1-4912-4efa-af69-1baf7ba277fb,2024-2025,Low Mood,dynamic
+53f1e6a1-4912-4efa-af69-1baf7ba277fb,2024-2025,Social Worker Involved,dynamic
+d4dc8336-9679-4b70-8d14-2d21ec799a20,2023-2024,Online Safety Concern,dynamic
+d4dc8336-9679-4b70-8d14-2d21ec799a20,2023-2024,Young Carer Increased Duties,dynamic
+d4dc8336-9679-4b70-8d14-2d21ec799a20,2024-2025,Recent Move/Transition,dynamic
+d4dc8336-9679-4b70-8d14-2d21ec799a20,2024-2025,Peer Conflict,dynamic
+52d6c531-d4fd-4242-bcde-843e5fca3d30,2023-2024,Domestic Abuse Exposure,dynamic
+52d6c531-d4fd-4242-bcde-843e5fca3d30,2024-2025,Young Carer Increased Duties,dynamic
+ac7be2a2-265c-4976-8ca0-fd56a3838794,2023-2024,Safeguarding Referral,dynamic
+ac7be2a2-265c-4976-8ca0-fd56a3838794,2024-2025,Parental Separation,dynamic
+abea7f8b-8429-4efb-b1b5-d54a6e66e987,2023-2024,Bereavement,dynamic
+abea7f8b-8429-4efb-b1b5-d54a6e66e987,2023-2024,CP Plan,dynamic
+abea7f8b-8429-4efb-b1b5-d54a6e66e987,2023-2024,Substance Concern,dynamic
+e4839483-52e0-4aba-9674-de2f1be6c57f,2023-2024,Medical Appointment Burden,dynamic
+e4839483-52e0-4aba-9674-de2f1be6c57f,2024-2025,Online Safety Concern,dynamic
+e4839483-52e0-4aba-9674-de2f1be6c57f,2024-2025,Substance Concern,dynamic
+58150e5b-ecdc-4af3-9d89-2589b5f93289,2023-2024,Safeguarding Referral,dynamic
+58150e5b-ecdc-4af3-9d89-2589b5f93289,2023-2024,Child in Need Plan,dynamic
+58150e5b-ecdc-4af3-9d89-2589b5f93289,2023-2024,Young Carer Increased Duties,dynamic
+195e33f4-ce7c-4cc3-b077-4b011441dfab,2023-2024,Bereavement,dynamic
+195e33f4-ce7c-4cc3-b077-4b011441dfab,2023-2024,Financial Hardship,dynamic
+195e33f4-ce7c-4cc3-b077-4b011441dfab,2024-2025,Housing Instability,dynamic
+195e33f4-ce7c-4cc3-b077-4b011441dfab,2024-2025,Domestic Abuse Exposure,dynamic
+78a413b1-a302-429c-beae-d74aca75d220,2023-2024,Low Mood,dynamic
+78a413b1-a302-429c-beae-d74aca75d220,2023-2024,Online Safety Concern,dynamic
+78a413b1-a302-429c-beae-d74aca75d220,2024-2025,Low Mood,dynamic
+78a413b1-a302-429c-beae-d74aca75d220,2024-2025,Young Carer Increased Duties,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2023-2024,Attendance < 90%,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2023-2024,Family Difficulty,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2024-2025,Safeguarding Referral,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2024-2025,New Diagnosis,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2024-2025,Recent Move/Transition,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2024-2025,Financial Hardship,dynamic
+45d52aac-737c-4408-977b-5eb95f0d0651,2024-2025,Medical Appointment Burden,dynamic
+043edbab-e1b9-49ab-baf3-00336ff48c36,2023-2024,Housing Instability,dynamic
+043edbab-e1b9-49ab-baf3-00336ff48c36,2023-2024,Recent Move/Transition,dynamic
+69b44190-fc1c-4602-92a1-9b7503fe698d,2023-2024,Low Mood,dynamic
+69b44190-fc1c-4602-92a1-9b7503fe698d,2023-2024,Exclusion,dynamic
+69b44190-fc1c-4602-92a1-9b7503fe698d,2023-2024,Financial Hardship,dynamic
+69b44190-fc1c-4602-92a1-9b7503fe698d,2024-2025,Social Worker Involved,dynamic
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2023-2024,Bereavement,dynamic
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2023-2024,Family Difficulty,dynamic
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2023-2024,Peer Conflict,dynamic
+7fd02378-ccb3-4f87-9301-6e2fd5081535,2024-2025,Exclusion,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2023-2024,Low Mood,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2023-2024,Social Worker Involved,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2023-2024,CP Plan,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2023-2024,Online Safety Concern,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2024-2025,Low Mood,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2024-2025,Safeguarding Referral,dynamic
+3e50eb0e-e429-48f3-8938-ddc2148a6a90,2024-2025,Peer Conflict,dynamic
+4d3ed81a-9aa4-4e20-b43b-5b9690ebb257,2023-2024,Young Carer Increased Duties,dynamic
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2023-2024,Housing Instability,dynamic
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2023-2024,Child in Need Plan,dynamic
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2024-2025,New Diagnosis,dynamic
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2024-2025,Online Safety Concern,dynamic
+eb9c69b3-a9ba-41a6-87f6-da8751d3e168,2024-2025,Financial Hardship,dynamic
+6a260288-b13a-45d1-bead-8610f365e54e,2023-2024,Parental Separation,dynamic
+6a260288-b13a-45d1-bead-8610f365e54e,2023-2024,Domestic Abuse Exposure,dynamic
+6a260288-b13a-45d1-bead-8610f365e54e,2023-2024,Medical Appointment Burden,dynamic
+6a260288-b13a-45d1-bead-8610f365e54e,2024-2025,Peer Conflict,dynamic
+b15684a3-0908-41ac-ac20-3bface5f8ed2,2024-2025,Low Mood,dynamic
+b15684a3-0908-41ac-ac20-3bface5f8ed2,2024-2025,Housing Instability,dynamic
+b15684a3-0908-41ac-ac20-3bface5f8ed2,2024-2025,Police Involvement,dynamic
+b15684a3-0908-41ac-ac20-3bface5f8ed2,2024-2025,Domestic Abuse Exposure,dynamic
+ea0d18cb-681d-45c4-8f09-26f88a6e9bc4,2024-2025,Low Mood,dynamic
+ea0d18cb-681d-45c4-8f09-26f88a6e9bc4,2024-2025,Social Worker Involved,dynamic
+ea0d18cb-681d-45c4-8f09-26f88a6e9bc4,2024-2025,Exclusion,dynamic
+ea0d18cb-681d-45c4-8f09-26f88a6e9bc4,2024-2025,Housing Instability,dynamic
+db489c7e-3be0-4984-a132-687cac789dae,2024-2025,Low Mood,dynamic
+db489c7e-3be0-4984-a132-687cac789dae,2024-2025,Online Safety Concern,dynamic
+dc2c09a8-303e-4bf5-ba37-6376127bf50d,2024-2025,Child in Need Plan,dynamic
+fd761f52-218e-4803-a6f9-0c7bc6d5ca9d,2024-2025,Low Mood,dynamic
+fd761f52-218e-4803-a6f9-0c7bc6d5ca9d,2024-2025,CAMHS Referral,dynamic
+717ee598-df2a-43dc-a7cc-2f3506e633b6,2024-2025,Bereavement,dynamic
+717ee598-df2a-43dc-a7cc-2f3506e633b6,2024-2025,CAMHS Referral,dynamic
+c5bf30b5-42b8-4af0-a2c0-60d8da2ff309,2024-2025,Low Mood,dynamic
+c5bf30b5-42b8-4af0-a2c0-60d8da2ff309,2024-2025,Safeguarding Referral,dynamic
+c5bf30b5-42b8-4af0-a2c0-60d8da2ff309,2024-2025,New Diagnosis,dynamic
+ce31426c-217d-4592-98de-4a4eef5979e9,2024-2025,Housing Instability,dynamic
+ce31426c-217d-4592-98de-4a4eef5979e9,2024-2025,Police Involvement,dynamic
+65393fd9-5f1f-4e29-a55d-bd677ccda9c4,2024-2025,Low Mood,dynamic
+65393fd9-5f1f-4e29-a55d-bd677ccda9c4,2024-2025,Recent Move/Transition,dynamic
+65393fd9-5f1f-4e29-a55d-bd677ccda9c4,2024-2025,Substance Concern,dynamic
+1fba1252-d7f3-4b7f-bdb3-14b092c6a51e,2024-2025,Family Difficulty,dynamic
+1fba1252-d7f3-4b7f-bdb3-14b092c6a51e,2024-2025,Police Involvement,dynamic
+b6274717-b47b-4b25-b3dd-551014f48c65,2024-2025,Safeguarding Referral,dynamic
+b6274717-b47b-4b25-b3dd-551014f48c65,2024-2025,Domestic Abuse Exposure,dynamic
+ec8f5711-3e9d-4869-a44e-75823632927c,2024-2025,Young Carer Increased Duties,dynamic
+dc8f768e-5757-4778-a015-cd2c5cb73950,2024-2025,Financial Hardship,dynamic
+6db58429-db35-4162-9636-91d512260341,2024-2025,Medical Appointment Burden,dynamic
+6ce6b271-1775-4587-ae4f-a2cd1a20704d,2024-2025,Police Involvement,dynamic
+6ce6b271-1775-4587-ae4f-a2cd1a20704d,2024-2025,Young Carer Increased Duties,dynamic
+355d490e-709c-4419-9638-0c36229ee10a,2024-2025,Bullying,dynamic
+9dfd8c65-18d0-4842-8cb2-98d06fdde2bb,2024-2025,Bullying,dynamic
+9dfd8c65-18d0-4842-8cb2-98d06fdde2bb,2024-2025,Child in Need Plan,dynamic
+d1bf0139-9002-48a7-a166-4d4b2922ea8b,2024-2025,CAMHS Referral,dynamic
+d1bf0139-9002-48a7-a166-4d4b2922ea8b,2024-2025,Self-Harm Concern,dynamic
+e99ceae8-8157-42d3-99ed-a1cfc7c4251a,2024-2025,Bullying,dynamic
+300f3c61-c146-4dc2-8e33-6db0090d5a38,2024-2025,Self-Harm Concern,dynamic
+d913aff6-754c-498d-95e5-403184e228d7,2024-2025,Child in Need Plan,dynamic
+d913aff6-754c-498d-95e5-403184e228d7,2024-2025,Self-Harm Concern,dynamic
+2dc52a53-ff6f-4b33-bb9e-da403bac8c3c,2024-2025,Parental Separation,dynamic
+c959f594-c788-4408-82f8-6b0890686b28,2024-2025,Self-Harm Concern,dynamic
+e7c60af5-d3c2-4ade-b55e-fe8efe8513af,2024-2025,Attendance < 80%,dynamic
+a6c6fa4f-b5d3-41b4-ae91-39cb929b8c6d,2024-2025,Family Difficulty,dynamic
+5efdd789-461c-481c-8057-499baf9356e0,2024-2025,Social Worker Involved,dynamic
+5efdd789-461c-481c-8057-499baf9356e0,2024-2025,Medical Appointment Burden,dynamic
+74df4f54-4f69-4bcb-9f96-8a89ab3aeb4c,2024-2025,Attendance < 90%,dynamic
+74df4f54-4f69-4bcb-9f96-8a89ab3aeb4c,2024-2025,Safeguarding Referral,dynamic
+2d54a659-9b9b-464f-ab6c-5a300ee1a07d,2024-2025,Safeguarding Referral,dynamic
+2d54a659-9b9b-464f-ab6c-5a300ee1a07d,2024-2025,Recent Move/Transition,dynamic
+76810c09-44be-4da9-8017-b1cdba240d9f,2024-2025,Safeguarding Referral,dynamic
+f926d5f4-c0e9-446c-b806-b5df7fc51128,2024-2025,CP Plan,dynamic
+f926d5f4-c0e9-446c-b806-b5df7fc51128,2024-2025,Substance Concern,dynamic
+876002a2-3b89-47fd-b916-65f6c92adc73,2024-2025,CP Plan,dynamic
+82284926-4f82-4c03-8e3d-6b3691a185b7,2024-2025,Low Mood,dynamic
+82284926-4f82-4c03-8e3d-6b3691a185b7,2024-2025,CP Plan,dynamic
+474c18dd-b149-4650-9c6a-8e35441986a7,2024-2025,Substance Concern,dynamic
+c93144e3-8cb8-4ac2-8968-0e88ccb8a735,2024-2025,Attendance < 90%,dynamic
+b1a5a700-5f9c-47bb-860d-70b5561c97c3,2024-2025,Substance Concern,dynamic
+f4068980-c35b-4859-9fee-6b792aaa48d5,2024-2025,Child in Need Plan,dynamic
+72c04a50-f203-4b88-8914-e7d8f3acf94d,2024-2025,Safeguarding Referral,dynamic
+72c04a50-f203-4b88-8914-e7d8f3acf94d,2024-2025,Online Safety Concern,dynamic
+379425ea-046b-446c-89e5-742aad9cd13b,2024-2025,Safeguarding Referral,dynamic
+379425ea-046b-446c-89e5-742aad9cd13b,2024-2025,Financial Hardship,dynamic
+fdce04ca-7ef6-4765-9199-2703ef2e78b8,2024-2025,Family Difficulty,dynamic
