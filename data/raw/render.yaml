@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: shiny-dashboard-tips
+    env: python
+    region: frankfurt  # or your preferred region
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "shiny run --host 0.0.0.0 --port $PORT app.py"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
+    autoDeploy: true
