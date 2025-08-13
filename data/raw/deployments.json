@@ -1,0 +1,89 @@
+{
+  "include": [
+    {
+      "folder": "basic-app",
+      "guid": 10892533,
+      "url": "https://gallery.shinyapps.io/template-basic-app/"
+    },
+    {
+      "folder": "basic-app-plot",
+      "guid": 11359401,
+      "url": "https://gallery.shinyapps.io/template-basic-app-plot1/"
+    },
+    {
+      "folder": "basic-navigation",
+      "guid": 11359792,
+      "url": "https://gallery.shinyapps.io/template-basic-navigation1/"
+    },
+    {
+      "folder": "basic-sidebar",
+      "guid": 11359435,
+      "url": "https://gallery.shinyapps.io/template-basic-sidebar1/"
+    },
+    {
+      "folder": "dashboard",
+      "guid": 10892532,
+      "url": "https://gallery.shinyapps.io/template-dashboard/"
+    },
+    {
+      "folder": "dashboard-tips",
+      "guid": 11359445,
+      "url": "https://gallery.shinyapps.io/template-dashboard-tips1/"
+    },
+    {
+      "folder": "database-explorer",
+      "guid": 10897334,
+      "url": "https://gallery.shinyapps.io/template-database-explorer/"
+    },
+    {
+      "folder": "map-distance",
+      "guid": 11367545,
+      "url": "https://gallery.shinyapps.io/template-map-distance/"
+    },
+    {
+      "folder": "model-scoring",
+      "guid": 11359083,
+      "url": "https://gallery.shinyapps.io/template-model-scoring/"
+    },
+    {
+      "folder": "monitor-database",
+      "guid": 10897342,
+      "url": "https://gallery.shinyapps.io/template-monitor-database/"
+    },
+    {
+      "folder": "monitor-file",
+      "guid": 10897336,
+      "url": "https://gallery.shinyapps.io/template-monitor-file/"
+    },
+    {
+      "folder": "monitor-folder",
+      "guid": 10897345,
+      "url": "https://gallery.shinyapps.io/template-monitor-folder/"
+    },
+    {
+      "folder": "nba-dashboard",
+      "guid": 10897337,
+      "url": "https://gallery.shinyapps.io/template-nba-dashboard/"
+    },
+    {
+      "folder": "regularization",
+      "guid": 10897343,
+      "url": "https://gallery.shinyapps.io/template-regularization/"
+    },
+    {
+      "folder": "stock-app",
+      "guid": 14877332,
+      "url": "https://gallery.shinyapps.io/template-stock-app/"
+    },
+    {
+      "folder": "survey",
+      "guid": 10897339,
+      "url": "https://gallery.shinyapps.io/template-survey/"
+    },
+    {
+      "folder": "survey-wizard",
+      "guid": 11359104,
+      "url": "https://gallery.shinyapps.io/template-survey-wizard/"
+    }
+  ]
+}
